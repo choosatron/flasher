@@ -122,9 +122,14 @@ def main():
         problems = []
         if not os.path.exists(EN) or open(EN, encoding="utf-8").read() != text:
             problems.append("locales/en.json is out of date: run tools/extract_strings.py")
-        for name in sorted(os.listdir(os.path.dirname(EN))):
-            if name.endswith(".json") and name != "en.json":
-                pack = json.load(open(os.path.join(os.path.dirname(EN), name), encoding="utf-8"))
+        here = os.path.dirname(EN)
+        names = [n for n in sorted(os.listdir(here)) if n.endswith(".json") and n != "en.json"]
+        if os.path.isdir(os.path.join(here, "held")):
+            # Held: translated and kept ready, not offered in the picker.
+            names += ["held/" + n for n in sorted(os.listdir(os.path.join(here, "held"))) if n.endswith(".json")]
+        for name in names:
+            if True:
+                pack = json.load(open(os.path.join(here, name), encoding="utf-8"))
                 extra = sorted(set(pack) - set(catalog))
                 missing = sorted(set(catalog) - set(pack))
                 if extra:

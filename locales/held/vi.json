@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Phiên bản Beta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Ổn định",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Chi tiết",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ đã được cài đặt và Choosatron đang khởi động lại. Các câu chuyện, danh sách phát và cài đặt của nó vẫn giữ nguyên như cũ.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ đã được cài đặt và Choosatron đang khởi động lại với các thiết lập mới. Nó xuất hiện dưới dạng mạng Wi-Fi mở riêng, có tên là Choosatron-, để thiết lập lại. Các câu chuyện và danh sách phát của nó vẫn được giữ nguyên.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Xong.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ được cài đặt trên một hệ điều hành Choosatron đã bị xóa, hệ điều hành này đang khởi động lại như mới. Nó in phiếu cài đặt và tự động tạo thành mạng Wi-Fi mở riêng, có tên là Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Thử lại cũng không mất gì: hãy kết nối lại cáp và nhấn nút một lần nữa.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Quá trình cài đặt chưa hoàn tất.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Firmware từ $1$ · được nạp bởi $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Nhấn $1$ một lần nữa.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Bạn luôn có thể truy cập Choosatron bằng cách này, cho dù phần mềm của nó có bị lỗi đến đâu. Nếu trình duyệt không hiển thị thiết bị nào hoặc quá trình cài đặt không thể kết nối:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Đưa máy vào chế độ phục hồi bằng tay. Mở vỏ máy và tìm hai nút nhỏ trên bo mạch, $1$ và $2$. Giữ $3$, nhấn và thả $4$, sau đó thả $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Hãy thử một cáp USB khác và một cổng USB khác trên máy tính.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Sau khi cài đặt từ chế độ phục hồi, hãy nhấn $1$ một lần nếu Choosatron không tự khởi động lại.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Nếu không tìm thấy Choosatron",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Không thể xác định hình ảnh này được tạo ra cho bo mạch nào.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Đây là ảnh cập nhật (X$UPDATE$), không phải ảnh khôi phục. Hãy chọn $RECOVERY$, hoặc cài đặt ảnh này từ tab Firmware trên trang web của Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Tệp này không phải là ảnh phục hồi Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Hình ảnh này là \"$NAME$\", không phải phần mềm Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Hình ảnh này được lưu trữ trong kho lưu trữ câu chuyện, vì vậy nó không phải là hình ảnh phục hồi Choosatron.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Tệp này quá nhỏ để được dùng làm ảnh phục hồi.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Ảnh này được tạo cho $BUILT$, không phải $WANTED$. Trên bo mạch sai, các nút bấm và máy in sẽ không hoạt động cho đến khi cài đặt đúng ảnh.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Được xây dựng cho",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Kích cỡ",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Phiên bản",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Cài đặt",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Đang kết nối với Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Xóa toàn bộ bộ nhớ. Quá trình này mất đến một phút…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Không có Choosatron được chọn.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ của $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Cài đặt và đặt lại cài đặt",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ đã được ghi chép và xác minh.",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Xóa mọi thứ và cài đặt lại",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Đang cài đặt. Hãy để nguyên cáp được kết nối…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Thiết bị này là $CHIP$, không phải Choosatron (ESP32-S3). Chưa có dữ liệu nào được ghi.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Bo mạch này có bộ nhớ flash $SIZE$; một bo mạch Choosatron có 16MB. Chưa có dữ liệu nào được ghi vào.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux hoặc Chromebook). Opera và các trình duyệt khác được xây dựng trên Chrome thường cũng hoạt động. Safari và Firefox không thể cài đặt qua USB, và điện thoại hoặc máy tính bảng cũng vậy.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Phần mềm cơ sở",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Bạn cần trình duyệt Chrome hoặc Edge trên máy tính.",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Hãy sử dụng trang này khi thiết bị Choosatron không khởi động được hoặc không thể cập nhật từ trang web của chính nó. Nếu trang web vẫn hoạt động, hãy cập nhật từ tab $1$ trên trang web đó: cách này nhanh hơn và không cần cáp.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Ngôn ngữ",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "khuyến khích",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Cài đặt lại",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Thay thế phần mềm gốc. Tất cả các câu chuyện, danh sách phát và cài đặt, bao gồm cả Wi-Fi, đều được giữ nguyên.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Cài đặt lại và đặt lại cài đặt",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Thao tác này cũng khôi phục mọi cài đặt về trạng thái ban đầu khi máy Choosatron mới mua, bao gồm cả Wi-Fi, để máy hiển thị như một mạng mở riêng biệt. Các câu chuyện và danh sách phát nhạc cũng được giữ nguyên. Hãy thử cách này nếu việc cài đặt lại không giải quyết được vấn đề.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Xóa sạch mọi thứ",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Tôi hiểu rằng mọi câu chuyện trên Choosatron này sẽ bị xóa.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Trước tiên, nó xóa toàn bộ bộ nhớ: mọi câu chuyện, danh sách phát và cài đặt. Choosatron khởi động như thể nó là một thiết bị mới. Dành cho bo mạch mới, hoặc khi không có thiết bị nào khác hoạt động.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Mở trang này trong Chrome hoặc Edge và bắt đầu lại.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Việc cài đặt qua USB yêu cầu máy tính có địa chỉ $1$ hoặc $2$ (Windows, macOS, Linux hoặc Chromebook). Safari, Firefox và các trình duyệt trên điện thoại và máy tính bảng không thể giao tiếp với thiết bị USB.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Trình duyệt này không thể truy cập Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Đèn nháy",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Tệp tải xuống bị lỗi: nó không khớp với phiên bản. Vui lòng tải lại trang và thử lại.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Quá trình tải xuống thất bại. Vui lòng kiểm tra kết nối internet và thử lại.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Quá trình tải xuống thất bại (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Đang tải xuống $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Đang tải danh sách các bản phát hành…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Phiên bản beta mới hơn có trong danh sách bên dưới.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Hiện chưa có firmware nào được phát hành cho bo mạch này. Bạn vẫn có thể cài đặt ảnh phục hồi từ máy tính này.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Một tập tin trên máy tính này…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (được đề xuất)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Khuyến khích",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Đã phát hành $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Không thể đọc danh sách các bản phát hành: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Nếu không thể kết nối, hãy xem phần \"Nếu không tìm thấy Choosatron\" bên dưới.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Ảnh phục hồi, $1$, từ bản phát hành hoặc bản dựng của riêng bạn.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Chọn phần mềm",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Phiên bản",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Hãy chọn việc bạn muốn làm",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Kết nối Choosatron với máy tính này bằng cáp USB-C. Một số cáp chỉ có chức năng sạc; nếu không tìm thấy cáp nào, hãy thử cáp khác.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Nhấn $1$. Trình duyệt sẽ hỏi bạn muốn sử dụng thiết bị nào: hãy chọn thiết bị có tên $2$ (trên Windows, đó là $3$ kèm số COM).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Kết nối và cài đặt",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Hãy để cáp được kết nối cho đến khi trang này thông báo quá trình hoàn tất.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "Thiết bị nối tiếp USB",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Cài đặt lại hoặc khôi phục qua USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "không rõ",
+    "source": "b23a6a8439c0"
+  }
+}

@@ -36,19 +36,32 @@ def main():
             sys.exit("%s (%r) no longer matches the device's %s (%r)"
                      % (ours, en[ours]["message"], theirs, dev_en[theirs]["message"]))
     changed = 0
-    for name in sorted(os.listdir(os.path.join(ROOT, "locales"))):
+    # Live packs against the device's live packs, held against held.
+    for sub in ("", "held"):
+        folder = os.path.join(ROOT, "locales", sub)
+        if os.path.isdir(folder):
+            changed += sync(folder, os.path.join(DEVICE_LOCALES, sub))
+    print("%d shared strings taken from the device's packs" % changed)
+
+
+def sync(folder, device_folder):
+    changed = 0
+    for name in sorted(os.listdir(folder)):
         if not name.endswith(".json") or name == "en.json":
             continue
-        path = os.path.join(ROOT, "locales", name)
+        path = os.path.join(folder, name)
         pack = json.load(open(path, encoding="utf-8"))
-        device = json.load(open(os.path.join(DEVICE_LOCALES, name), encoding="utf-8"))
+        device_path = os.path.join(device_folder, name)
+        if not os.path.exists(device_path):
+            continue
+        device = json.load(open(device_path, encoding="utf-8"))
         for ours, theirs in SHARED.items():
             if theirs in device and pack.get(ours, {}).get("message") != device[theirs]["message"]:
                 pack[ours] = {"message": device[theirs]["message"], "source": device[theirs].get("source")}
                 changed += 1
         with open(path, "w", encoding="utf-8") as f:
             f.write(json.dumps(pack, ensure_ascii=False, indent=2) + "\n")
-    print("%d shared strings taken from the device's packs" % changed)
+    return changed
 
 
 if __name__ == "__main__":

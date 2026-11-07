@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Бета",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Стабилен",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Детайли",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ е инсталирана и Choosatron се рестартира. Историите, плейлистите и настройките му са такива, каквито са били.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ е инсталирана и Choosatron се рестартира с новите си настройки. Той се показва като собствена отворена Wi-Fi мрежа, наречена Choosatron-, за да се настрои отново. Неговите истории и плейлисти се запазват.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Готово.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ е инсталирана на изтрит Choosatron, който се рестартира като нов. Той отпечатва инсталационния си лист и се показва като собствена отворена Wi-Fi мрежа, наречена Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Нищо не се губи, ако опитате отново: свържете отново кабела и натиснете бутона.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Инсталацията не завърши.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Фърмуер от $1$ · флашване от $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Натиснете отново $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "До Choosatron винаги може да се стигне по този начин, независимо колко повреден е фърмуерът му. Ако браузърът не показва посочено устройство или инсталацията не може да се свърже:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Включете го в режим на възстановяване ръчно. Отворете корпуса и намерете двата малки бутона на платката, $1$ и $2$. Задръжте $3$, натиснете и отпуснете $4$, след което отпуснете $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Опитайте друг USB кабел и друг USB порт на компютъра.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "След инсталиране от режим на възстановяване, натиснете $1$ веднъж, ако Choosatron не се рестартира сам.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Ако Choosatron не бъде намерен",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Не можах да разбера за коя платка е създадено това изображение.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Това е образ за актуализация ($UPDATE$), а не образ за възстановяване. Изберете $RECOVERY$ или инсталирайте този образ от раздела Firmware на уеб страницата на Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Този файл не е образ за възстановяване на Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Това изображение е \"$NAME$\", а не фърмуер Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Това изображение достига до хранилището за истории, така че не е Choosatron изображение за възстановяване.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Този файл е твърде малък, за да бъде образ за възстановяване.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Това изображение е създадено за $BUILT$, а не $WANTED$. На грешната платка бутоните и принтерът не работят, докато не се инсталира правилното изображение.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Създаден за",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Размер",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Версия",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Инсталиране",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Свързване с Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Изтриване на цялата памет. Това отнема до минута…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Не беше избран Choosatron.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ от $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Инсталиране и нулиране на настройките",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ написано и проверено",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Изтрий всичко и инсталирай",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Инсталиране. Оставете кабела свързан…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Това устройство е $CHIP$, а не Choosatron (ESP32-S3). Нищо не е написано.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Тази платка има $SIZE$ флаш памет; Choosatron има 16MB. Нищо не е записано.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux или Chromebook). Opera и други браузъри, изградени на базата на Chrome, обикновено също работят. Safari и Firefox не могат да се инсталират през USB, както и телефони или таблети.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Фърмуер",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Нуждаете се от Chrome или Edge на компютър",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Използвайте тази страница, когато Choosatron не стартира или не може да бъде актуализиран от собствената си уеб страница. Ако уеб страницата му все още работи, актуализирайте от раздела $1$ там: това е по-бързо и не изисква кабел.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Език",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "препоръчително",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Преинсталирайте",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Заменя фърмуера. Истории, плейлисти и настройки, включително Wi-Fi, се запазват.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Преинсталирайте и нулирайте настройките",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Също така връща всички настройки към състоянието, в което бяха, когато Choosatron беше нов, включително Wi-Fi, така че се показва като собствена отворена мрежа. Историите и плейлистите се запазват. Опитайте това, когато само преинсталирането не е помогнало.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Изтрий всичко",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Разбирам, че всяка история на този Choosatron ще бъде изтрита.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Първо изтрива цялата памет: всяка история, плейлист и обстановка. Choosatron започва сякаш е нов. За нова дъска или когато нищо друго не е работило.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Отворете тази страница в Chrome или Edge и започнете отново.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Инсталирането през USB изисква $1$ или $2$ на компютър (Windows, macOS, Linux или Chromebook). Safari, Firefox и браузърите на телефони и таблети не могат да комуникират с USB устройства.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Този браузър не може да достигне Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Мигач",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Изтегленият файл е повреден: не съответства на изданието. Презаредете страницата и опитайте отново.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Изтеглянето не бе успешно. Проверете интернет връзката и опитайте отново.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Изтеглянето не бе успешно (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Изтегляне на $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Зареждане на списъка с издания…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "По-нова бета версия е в списъка по-долу.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Все още не е публикуван фърмуер за тази платка. Все още можете да инсталирате образ за възстановяване от този компютър.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Файл на този компютър…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (препоръчително)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Препоръчано",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Издаден $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Не можах да прочета списъка с издания: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Ако не може да се свърже, вижте „Ако Choosatron не е намерен“ по-долу.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ МБ",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Образът за възстановяване, $1$, от ваша собствена версия или компилация.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Изберете фърмуера",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Версия",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Изберете какво да правите",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Свържете Choosatron към този компютър с USB-C кабел. Някои кабели само зареждат; ако не намерите нищо, опитайте друг.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Натиснете $1$. Браузърът пита кое устройство да използва: изберете това с име $2$ (в Windows, $3$ с COM номер).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Свържете и инсталирайте",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Оставете кабела свързан, докато тази страница не покаже, че е готово.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB серийно устройство",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Преинсталирайте или възстановете през USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "неизвестен",
+    "source": "b23a6a8439c0"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beeta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stabiilne",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Detailid",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ on installitud ja Choosatron taaskäivitub. Selle lood, esitusloendid ja seaded on nii nagu olid.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ on installitud ja Choosatron taaskäivitub uute sätetega. See kuvatakse uuesti seadistamiseks oma avatud WiFi-võrguna nimega Choosatron-. Selle lood ja esitusloendid jäävad alles.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Valmis.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ on installitud kustutatud Choosatron-ile, mis taaskäivitub uue seadmena. See prindib oma seadistuslipi ja kuvatakse omaette avatud WiFi-võrguna nimega Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Uuesti proovides ei lähe midagi kaotsi: ühenda kaabel uuesti ja vajuta uuesti nuppu.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Installimine ei lõppenud.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Püsivara firmalt $1$ · vilgub $2$ poolt",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Vajuta uuesti nuppu $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Choosatron-i saab sel viisil alati kätte, olenemata sellest, kui katkine selle püsivara on. Kui brauser ei kuva ühtegi seadet või install ei saa ühendust luua:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Lülita see käsitsi taasterežiimi. Ava korpus ja leia plaadilt kaks väikest nuppu, $1$ ja $2$. Hoia all $3$, vajuta ja vabasta $4$, seejärel lase $5$ lahti.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Proovi teist USB-kaablit ja arvuti teist USB-porti.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Pärast taasterežiimist installimist vajutage üks kord $1$, kui Choosatron ise ei taaskäivu.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Kui Choosatron-i ei leita",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Ei olnud võimalik öelda, millise tahvli jaoks see pilt loodi.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "See on uuenduskujutis ($UPDATE$), mitte taastekujutis. Vali $RECOVERY$ või installi see Choosatron enda veebilehe püsivara vahekaardilt.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "See fail ei ole Choosatron taastekujutis.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "See kujutis on \"$NAME$\", mitte Choosatron püsivara.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "See pilt ulatub loo salvestusruumi, seega pole see Choosatron taastekujutis.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "See fail on taastekujutiseks kasutamiseks liiga väike.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "See kujutis loodi $BUILT$-i, mitte $WANTED$-i jaoks. Valel plaadil ei tööta nupud ja printer enne, kui õige kujutis on installitud.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Ehitatud",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Suurus",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Versioon",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Paigalda",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Ühendamine Choosatron-iga…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Kogu mälu kustutamine. See võtab kuni minuti…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Choosatron-i ei valitud.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$/$TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Seadete installimine ja lähtestamine",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ kirjutatud ja kinnitatud",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Kustuta kõik ja installi",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Paigaldamine. Jätke kaabel ühendatuks…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "See seade on $CHIP$, mitte Choosatron (ESP32-S3). Midagi pole kirjutatud.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Sellel plaadil on $SIZE$ jagu välkmälu; Choosatron-il on 16 MB. Midagi pole kirjutatud.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux või Chromebook). Opera ja muud Chrome'il põhinevad brauserid töötavad tavaliselt samuti. Safari ja Firefox ei saa USB kaudu installida, samuti mitte telefonid ega tahvelarvutid.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Püsivara",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Arvutis on vaja Chrome'i või Edge'i",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Kasutage seda lehte, kui Choosatron ei käivitu või seda ei saa oma veebilehelt uuendada. Kui veebileht ikka töötab, uuendage hoopis sealt $1$ vahekaardilt: see on kiirem ja ei vaja kaablit.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Keel",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "soovitatav",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Installi uuesti",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Asendab püsivara. Lood, esitusloendid ja seaded, sh WiFi, jäävad kõik alles.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Installige uuesti ja lähtestage sätted",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Samuti taastab kõik seaded olekusse, mis olid siis, kui Choosatron oli uus, WiFi on kaasas, nii et see kuvatakse omaette avatud võrguna. Lood ja esitusloendid säilivad. Proovige seda, kui ainuüksi uuesti installimine ei aidanud.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Kustuta kõik",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Ma saan aru, et kõik lood sellelt Choosatron-ilt kustutatakse.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Kustutab esmalt kogu mälu: iga loo, esitusloendi ja keskkonna. Choosatron käivitub nagu oleks see uus. Uue tahvli jaoks või kui miski muu ei toiminud.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Ava see leht Chrome'is või Edge'is ja alusta uuesti.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "USB kaudu installimiseks on vaja arvutis (Windows, macOS, Linux või Chromebook) $1$ või $2$ kausta. Safari, Firefox ning telefonide ja tahvelarvutite brauserid ei saa USB-seadmetega suhelda.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "See brauser ei pääse ligi aadressile Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Vilkuja",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Allalaaditud fail on kahjustatud: see ei vasta väljalaskele. Laadige leht uuesti ja proovige uuesti.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Allalaadimine ebaõnnestus. Kontrollige internetiühendust ja proovige uuesti.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Allalaadimine ebaõnnestus (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "$VERSION$ ($SIZE$) allalaadimine…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Väljalasete loendi laadimine…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Uuem beetaversioon on allolevas loendis.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Sellele emaplaadile pole veel püsivara avaldatud. Saate siiski sellest arvutist taastekujutise installida.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Sellel arvutil olev fail…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (soovitatav)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Soovitatav",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Välja antud $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Väljaannete nimekirja lugemine ebaõnnestus: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Kui ühendust ei õnnestu luua, vaadake allpool jaotist „Kui seadet Choosatron ei leita”.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Taastekujutis, $1$, teie enda väljaandest või järgust.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Valige püsivara",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Versioon",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Vali, mida teha",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Ühenda Choosatron selle arvutiga USB-C-kaabli abil. Mõned kaablid ainult laadivad; kui midagi ei leita, proovi teist.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Vajuta $1$. Brauser küsib, millist seadet kasutada: vali see nimega $2$ (Windowsis $3$ koos COM-numbriga).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Ühenda ja installi",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Jätke kaabel ühendatuks, kuni see leht ütleb, et see on valmis.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB-jadaseade",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Installige uuesti või taastage USB kaudu",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "tundmatu",
+    "source": "b23a6a8439c0"
+  }
+}

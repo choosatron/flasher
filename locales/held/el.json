@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Βήτα",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Σταθερός",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Καθέκαστα",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "Το $VERSION$ έχει εγκατασταθεί και το Choosatron επανεκκινείται. Οι ιστορίες, οι λίστες αναπαραγωγής και οι ρυθμίσεις του είναι όπως ήταν.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "Το $VERSION$ έχει εγκατασταθεί και το Choosatron επανεκκινείται με τις ρυθμίσεις του ως νέες. Εμφανίζεται ως δικό του ανοιχτό δίκτυο Wi-Fi, με το όνομα Choosatron-, για να ρυθμιστεί ξανά. Οι ιστορίες και οι λίστες αναπαραγωγής του διατηρούνται.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Γινώμενος.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "Το $VERSION$ είναι εγκατεστημένο σε ένα διαγραμμένο Choosatron, το οποίο επανεκκινείται ως νέο. Εκτυπώνει το δελτίο εγκατάστασής του και εμφανίζεται ως το δικό του ανοιχτό δίκτυο Wi-Fi, με το όνομα Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Δεν χάνεται τίποτα αν προσπαθήσετε ξανά: επανασυνδέστε το καλώδιο και πατήστε ξανά το κουμπί.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Η εγκατάσταση δεν ολοκληρώθηκε.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Firmware από $1$ · αναβοσβήνει από $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Πατήστε ξανά $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Ένα Choosatron μπορεί πάντα να προσπελαστεί με αυτόν τον τρόπο, όσο προβληματικό και αν είναι το υλικολογισμικό του. Εάν το πρόγραμμα περιήγησης δεν εμφανίζει καμία συσκευή ή η εγκατάσταση δεν μπορεί να συνδεθεί:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Θέστε το σε λειτουργία ανάκτησης χειροκίνητα. Ανοίξτε τη θήκη και βρείτε τα δύο μικρά κουμπιά στην πλακέτα, $1$ και $2$. Κρατήστε πατημένο το $3$, πατήστε και αφήστε το $4$ και, στη συνέχεια, αφήστε το $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Δοκιμάστε ένα άλλο καλώδιο USB και μια άλλη θύρα USB στον υπολογιστή.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Μετά από μια εγκατάσταση από τη λειτουργία ανάκτησης, πατήστε $1$ μία φορά εάν το Choosatron δεν επανεκκινηθεί μόνο του.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Εάν το Choosatron δεν βρεθεί",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Δεν μπόρεσα να καταλάβω για ποια πλακέτα κατασκευάστηκε αυτή η εικόνα.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Αυτή είναι μια εικόνα ενημέρωσης ($UPDATE$), όχι μια εικόνα ανάκτησης. Επιλέξτε $RECOVERY$ ή εγκαταστήστε αυτήν από την καρτέλα Firmware της ιστοσελίδας του Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Αυτό το αρχείο δεν είναι εικόνα ανάκτησης Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Αυτή η εικόνα είναι \"$NAME$\", όχι υλικολογισμικό Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Αυτή η εικόνα φτάνει στον χώρο αποθήκευσης ιστοριών, επομένως δεν είναι εικόνα ανάκτησης Choosatron.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Αυτό το αρχείο είναι πολύ μικρό για να είναι εικόνα ανάκτησης.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Αυτή η εικόνα δημιουργήθηκε για το $BUILT$, όχι για το $WANTED$. Σε λάθος πλακέτα, τα κουμπιά και ο εκτυπωτής δεν λειτουργούν μέχρι να εγκατασταθεί η σωστή εικόνα.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Κατασκευασμένο για",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Μέγεθος",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Εκδοχή",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Εγκαθιστώ",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Σύνδεση με το Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Διαγραφή ολόκληρης της μνήμης. Αυτό διαρκεί έως και ένα λεπτό…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Δεν επιλέχθηκε Choosatron.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ του $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Εγκατάσταση και επαναφορά ρυθμίσεων",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ γραμμένο και επαληθευμένο",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Σβήσε τα πάντα και εγκατέστησε",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Εγκατάσταση. Αφήστε το καλώδιο συνδεδεμένο…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Αυτή η συσκευή είναι $CHIP$, όχι Choosatron (ESP32-S3). Δεν γράφτηκε τίποτα.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Αυτή η πλακέτα έχει $SIZE$ μνήμη flash. Μια Choosatron έχει 16MB. Δεν γράφτηκε τίποτα.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux ή Chromebook). Το Opera και άλλα προγράμματα περιήγησης που βασίζονται στο Chrome συνήθως λειτουργούν επίσης. Το Safari και το Firefox δεν μπορούν να εγκατασταθούν μέσω USB, όπως και τα τηλέφωνα ή τα tablet.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Υλικολογισμικό",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Χρειάζεστε Chrome ή Edge σε έναν υπολογιστή",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Χρησιμοποιήστε αυτήν τη σελίδα όταν ένα Choosatron δεν ξεκινά ή δεν μπορεί να ενημερωθεί από τη δική του ιστοσελίδα. Εάν η ιστοσελίδα του εξακολουθεί να λειτουργεί, ενημερώστε το από την καρτέλα $1$ εκεί: είναι πιο γρήγορο και δεν χρειάζεται καλώδιο.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Γλώσσα",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "συνιστάται",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Εγκαθιδρύω πάλι",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Αντικαθιστά το υλικολογισμικό. Οι ιστορίες, οι λίστες αναπαραγωγής και οι ρυθμίσεις, συμπεριλαμβανομένου του Wi-Fi, διατηρούνται.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Επανεγκατάσταση και επαναφορά ρυθμίσεων",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Επίσης, επαναφέρει κάθε ρύθμιση στην κατάσταση που ήταν όταν το Choosatron ήταν καινούργιο, συμπεριλαμβανομένου του Wi-Fi, έτσι ώστε να εμφανίζεται ως ξεχωριστό ανοιχτό δίκτυο. Οι ιστορίες και οι λίστες αναπαραγωγής διατηρούνται. Δοκιμάστε το αν η επανεγκατάσταση από μόνη της δεν βοήθησε.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Διαγραφή όλων",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Καταλαβαίνω ότι κάθε ιστορία σε αυτό το Choosatron θα διαγραφεί.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Διαγράφει πρώτα ολόκληρη τη μνήμη: κάθε ιστορία, λίστα αναπαραγωγής και ρύθμιση. Το Choosatron ξεκινά σαν να ήταν καινούργιο. Για έναν νέο πίνακα ή όταν δεν λειτουργούσε τίποτα άλλο.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Ανοίξτε αυτήν τη σελίδα στο Chrome ή στο Edge και ξεκινήστε ξανά.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Η εγκατάσταση μέσω USB απαιτεί $1$ ή $2$ σε υπολογιστή (Windows, macOS, Linux ή Chromebook). Το Safari, το Firefox και τα προγράμματα περιήγησης σε τηλέφωνα και tablet δεν μπορούν να επικοινωνήσουν με συσκευές USB.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Αυτό το πρόγραμμα περιήγησης δεν μπορεί να φτάσει σε ένα Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Flasher",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Η λήψη είναι κατεστραμμένη: δεν ταιριάζει με την έκδοση. Επαναφορτώστε τη σελίδα και δοκιμάστε ξανά.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Η λήψη απέτυχε. Ελέγξτε τη σύνδεση στο διαδίκτυο και δοκιμάστε ξανά.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Η λήψη απέτυχε (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Λήψη $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Φόρτωση της λίστας κυκλοφοριών…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Μια νεότερη beta έκδοση υπάρχει στην παρακάτω λίστα.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Δεν έχει δημοσιευτεί ακόμη υλικολογισμικό για αυτήν την πλακέτα. Μπορείτε ακόμα να εγκαταστήσετε ένα είδωλο αποκατάστασης από αυτόν τον υπολογιστή.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Ένα αρχείο σε αυτόν τον υπολογιστή…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (συνιστάται)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Συνιστάται",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Κυκλοφόρησε $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Δεν ήταν δυνατή η ανάγνωση της λίστας κυκλοφοριών: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Εάν δεν μπορεί να συνδεθεί, ανατρέξτε στην ενότητα \"Εάν δεν βρεθεί το Choosatron\" παρακάτω.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Η εικόνα ανάκτησης, $1$, από μια έκδοση ή μια δική σας έκδοση.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Επιλέξτε το υλικολογισμικό",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Εκδοχή",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Επιλέξτε τι θα κάνετε",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Συνδέστε το Choosatron σε αυτόν τον υπολογιστή με ένα καλώδιο USB-C. Ορισμένα καλώδια φορτίζουν μόνο. Εάν δεν βρεθεί τίποτα, δοκιμάστε ένα άλλο.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Πατήστε $1$. Το πρόγραμμα περιήγησης ρωτά ποια συσκευή θα χρησιμοποιήσει: επιλέξτε αυτήν με το όνομα $2$ (στα Windows, μια $3$ με αριθμό COM).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Σύνδεση και εγκατάσταση",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Αφήστε το καλώδιο συνδεδεμένο μέχρι να αναγράφεται σε αυτήν τη σελίδα ότι έχει ολοκληρωθεί.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "Σειριακή συσκευή USB",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Επανεγκατάσταση ή ανάκτηση μέσω USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "άγνωστος",
+    "source": "b23a6a8439c0"
+  }
+}
