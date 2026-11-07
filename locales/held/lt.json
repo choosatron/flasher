@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta versija",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stabilus",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Išsami informacija",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "Įdiegta $VERSION$ ir Choosatron paleidžiamas iš naujo. Jo istorijos, grojaraščiai ir nustatymai išlieka tokie patys, kokie buvo.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ įdiegtas ir Choosatron paleidžiamas iš naujo su naujais nustatymais. Jis rodomas kaip atskiras atviras „Wi-Fi“ tinklas, pavadintas Choosatron-, kad būtų galima iš naujo nustatyti. Jo istorijos ir grojaraščiai išsaugomi.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Atlikta.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ versija įdiegta ištrintame Choosatron serveryje, kuris paleidžiamas iš naujo. Jis atspausdina sąrankos lapelį ir pasirodo kaip atskiras atviras „Wi-Fi“ tinklas, pavadintas Choosatron-“.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Nieko neprarasite bandydami dar kartą: prijunkite laidą ir dar kartą paspauskite mygtuką.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Diegimas nebuvo baigtas.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "$1$ programinė įranga · mirksi $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Dar kartą paspauskite $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Choosatron visada galima pasiekti tokiu būdu, kad ir kokia sugadinta būtų jo programinė įranga. Jei naršyklė nenurodo jokio įrenginio arba diegimo programa negali prisijungti:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Rankiniu būdu įjunkite atkūrimo režimą. Atidarykite korpusą ir suraskite du mažus mygtukus ant plokštės – $1$ ir $2$. Laikykite nuspaudę $3$, paspauskite ir atleiskite $4$, tada atleiskite $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Išbandykite kitą USB laidą ir kitą kompiuterio USB prievadą.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Įdiegę iš atkūrimo režimo, vieną kartą paspauskite $1$, jei Choosatron pats nepasileidžia iš naujo.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Jei Choosatron nerandamas",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Nepavyko pasakyti, kuriai lentai šis paveikslėlis buvo sukurtas.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Tai atnaujinimo atvaizdas ($UPDATE$), o ne atkūrimo atvaizdas. Pasirinkite $RECOVERY$ arba įdiekite jį iš „Choosatron“ tinklalapio skirtuko „Firmware“.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Šis failas nėra Choosatron atkūrimo atvaizdas.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Šis atvaizdas yra „$NAME$“, o ne Choosatron programinė įranga.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Šis vaizdas pasiekia istorijų saugyklą, todėl tai nėra Choosatron atkūrimo vaizdas.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Šis failas per mažas, kad būtų atkūrimo atvaizdas.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Šis atvaizdas buvo sukurtas $BUILT$, o ne $WANTED$. Ne toje plokštėje mygtukai ir spausdintuvas neveikia, kol neįdiegtas tinkamas atvaizdas.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Sukurta",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Dydis",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Versija",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Įdiegti",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Jungiamasi prie „XChoosatron“…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Ištrinama visa atmintis. Tai užtrunka iki minutės…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Nebuvo pasirinktas joks Choosatron.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ iš $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Įdiekite ir iš naujo nustatykite nustatymus",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ parašyta ir patikrinta",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Ištrinkite viską ir įdiekite",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Įdiegiama. Palikite laidą prijungtą…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Šis įrenginys yra $CHIP$, o ne Choosatron (ESP32-S3). Nieko nebuvo parašyta.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Šioje plokštėje yra $SIZE$ atminties; Choosatron – 16 MB. Niekas nebuvo parašyta.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ („Windows“, „macOS“, „Linux“ arba „Chromebook“). „Opera“ ir kitos „Chrome“ pagrindu sukurtos naršyklės paprastai taip pat veikia. „Safari“ ir „Firefox“ negalima įdiegti per USB, taip pat negalima įdiegti telefonų ar planšetinių kompiuterių.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Programinė įranga",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Jums reikia „Chrome“ arba „Edge“ kompiuteryje",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Šį puslapį naudokite, kai Choosatron nepavyksta paleisti arba negalima atnaujinti iš jo paties tinklalapio. Jei tinklalapis vis dar veikia, atnaujinkite iš ten esančio skirtuko $1$: tai greičiau ir nereikia laido.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Kalba",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "rekomenduojama",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Įdiegti iš naujo",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Pakeičia programinę įrangą. Istorijos, grojaraščiai ir nustatymai, įskaitant „Wi-Fi“, išsaugomi.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Iš naujo įdiekite ir nustatykite nustatymus iš naujo",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Taip pat atkuria visus nustatymus į tuos, kurie buvo, kai „ Choosatron buvo naujas, įskaitant „Wi-Fi“, todėl jis rodomas kaip atskiras atviras tinklas. Istorijos ir grojaraščiai išsaugomi. Išbandykite tai, jei vien pakartotinis diegimas nepadėjo.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Ištrinti viską",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Suprantu, kad kiekviena istorija šiame „XChoosatron“ bus ištrinta.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Pirmiausia ištrina visą atmintį: kiekvieną istoriją, grojaraštį ir aplinką. Choosatron paleidžiamas taip, lyg būtų naujas. Naujai lentai arba kai niekas kitas neveikė.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Atidarykite šį puslapį „Chrome“ arba „Edge“ naršyklėje ir pradėkite iš naujo.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Diegimas per USB kompiuteryje („Windows“, „macOS“, „Linux“ arba „Chromebook“) kainuoja $1$ arba $2$. „Safari“, „Firefox“ ir naršyklės telefonuose bei planšetiniuose kompiuteriuose negali bendrauti su USB įrenginiais.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Ši naršyklė negali pasiekti Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron mirksintis",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Atsisiuntimas sugadintas: jis neatitinka leidimo. Įkelkite puslapį iš naujo ir bandykite dar kartą.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Atsisiųsti nepavyko. Patikrinkite interneto ryšį ir bandykite dar kartą.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Atsisiuntimas nepavyko (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Atsisiunčiama $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Įkeliamas leidimų sąrašas…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Naujesnė beta versija pateikta žemiau esančiame sąraše.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Šiai plokštei dar nepaskelbta jokia programinė įranga. Vis tiek galite įdiegti atkūrimo atvaizdą iš šio kompiuterio.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Šiame kompiuteryje esantis failas…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (rekomenduojama)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Rekomenduojama",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Išleistas $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Nepavyko nuskaityti leidimų sąrašo: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Jei nepavyksta prisijungti, žr. toliau pateiktą skyrių „Jei Choosatron nerastas“.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Atkūrimo atvaizdas, $1$, iš jūsų sukurtos versijos arba kompiliacijos.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Pasirinkite programinę-aparatinę įrangą",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Versija",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Pasirinkite, ką daryti",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Prijunkite Choosatron prie šio kompiuterio USB-C laidu. Kai kurie laidai skirti tik įkrovimui; jei nieko nerandate, pabandykite kitą.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Paspauskite $1$. Naršyklė paklaus, kurį įrenginį naudoti: pasirinkite įrenginį pavadinimu $2$ (sistemoje „Windows“ – $3$ su COM numeriu).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Prijunkite ir įdiekite",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Palikite laidą prijungtą, kol šiame puslapyje bus nurodyta, kad tai atlikta.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB serijinis įrenginys",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Įdiekite iš naujo arba atkurkite per USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "nežinomas",
+    "source": "b23a6a8439c0"
+  }
+}

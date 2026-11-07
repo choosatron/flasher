@@ -50,6 +50,12 @@ elements as `$1$`, `$2$`. To change or add text:
 (the Firmware tab, the Stable channel), so the flasher never names a tab differently from
 the Choosatron. The packs are machine translations and welcome a human read.
 
+`locales/held/` holds the 19 languages the Choosatron keeps translated but does not ship
+yet (the device's `data/source/locales/held/`): ready, never loaded, not in the picker. To
+make one live, move its pack up to `locales/` and add it to `LANGUAGES` in `i18n.js`, at
+the same time the device ships it. Refill them with `--held` added to the translate command
+above.
+
 ## Testing
 
 Web Serial works on `localhost`, so serve a folder that holds this repo as `flasher/`

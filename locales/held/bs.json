@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta verzija",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stajalište",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Detalji",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ je instalirana i Choosatron se ponovo pokreće. Njegove priče, liste za reprodukciju i postavke su iste kao i prije.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ je instalirana i Choosatron se ponovo pokreće sa novim postavkama. Pojavljuje se kao vlastita otvorena Wi-Fi mreža, pod nazivom Choosatron-, za ponovno podešavanje. Njegove priče i liste reprodukcije su sačuvane.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Gotovo.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ je instalirana na izbrisanom Choosatron, koji se ponovo pokreće kao novi. Ispisuje svoju postavku i pojavljuje se kao vlastita otvorena Wi-Fi mreža, pod nazivom Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Ništa se ne gubi ponovnim pokušajem: ponovo spojite kabel i ponovo pritisnite dugme.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Instalacija nije završena.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Firmver od $1$ · flešovanje od $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Ponovo pritisnite $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Choosatron uređaju se uvijek može pristupiti na ovaj način, bez obzira na to koliko je njegov firmver oštećen. Ako preglednik ne prikazuje nijedan uređaj ili se instalacija ne može povezati:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Ručno ga stavite u recovery mod. Otvorite kućište i pronađite dva mala dugmeta na ploči, $1$ i $2$. Držite $3$, pritisnite i otpustite $4$, a zatim otpustite $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Pokušajte s drugim USB kablom i drugim USB portom na računaru.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Nakon instalacije iz načina oporavka, pritisnite jednom $1$ ako se Choosatron ne ponovo pokrene sam od sebe.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Ako Choosatron nije pronađen",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Nisam mogao utvrditi za koju ploču je ova slika napravljena.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Ovo je slika za ažuriranje ($UPDATE$), a ne slika za oporavak. Odaberite $RECOVERY$ ili instalirajte ovu sliku sa kartice Firmware na Choosatron web stranici.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Ova datoteka nije slika za oporavak Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Ova slika je \"$NAME$\", a ne Choosatron firmver.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Ova slika dopire u skladište priča, tako da nije slika za oporavak Choosatron-a.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Ova datoteka je premala da bi bila slika za oporavak.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Ova slika je napravljena za $BUILT$, a ne $WANTED$. Na pogrešnoj ploči dugmad i štampač ne rade dok se ne instalira ispravna slika.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Napravljeno za",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Veličina",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Verzija",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Instaliraj",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Povezivanje sa Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Brisanje cijele memorije. Ovo traje do minute…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Nijedan Choosatron nije izabran.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ od $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Instaliraj i resetuj postavke",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ napisano i potvrđeno",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Obriši sve i instaliraj",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Instalira se. Ostavite kabel spojen…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Ovaj uređaj je $CHIP$, a ne Choosatron (ESP32-S3). Ništa nije zapisano.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Ova ploča ima $SIZE$ fleš memorije; Choosatron ima 16MB. Ništa nije zapisano.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux ili Chromebook). Opera i drugi preglednici izgrađeni na Chromeu obično također rade. Safari i Firefox se ne mogu instalirati preko USB-a, kao ni telefoni ili tableti.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Firmver",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Potreban vam je Chrome ili Edge na računaru",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Koristite ovu stranicu kada se Choosatron ne pokreće ili se ne može ažurirati sa vlastite web stranice. Ako njegova web stranica i dalje radi, ažurirajte s kartice $1$ tamo: brže je i ne treba kabel.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Jezik",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "preporučeno",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Ponovo instaliraj",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Zamjenjuje firmver. Priče, liste pjesama i postavke, uključujući Wi-Fi, ostaju sačuvane.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Ponovna instalacija i resetiranje postavki",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Također vraća sve postavke na stanje kakvo je bilo kada je Choosatron bio nov, uključujući i Wi-Fi, tako da se prikazuje kao zasebna otvorena mreža. Priče i liste pjesama se čuvaju. Pokušajte ovo ako sama ponovna instalacija nije pomogla.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Izbriši sve",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Razumijem da će svaka priča na ovom Choosatron biti izbrisana.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Prvo briše cijelu memoriju: svaku priču, listu pjesama i okruženje. Choosatron počinje kao da je nov. Za novu ploču ili kada ništa drugo nije radilo.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Otvorite ovu stranicu u Chromeu ili Edgeu i počnite ponovo.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Za instalaciju preko USB-a potrebno je $1$ ili $2$ na računaru (Windows, macOS, Linux ili Chromebook). Safari, Firefox i preglednici na telefonima i tabletima ne mogu komunicirati s USB uređajima.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Ovaj preglednik ne može pristupiti Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Bljeskalica",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Preuzimanje je oštećeno: ne odgovara izdanju. Ponovo učitajte stranicu i pokušajte ponovo.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Preuzimanje nije uspjelo. Provjerite internetsku vezu i pokušajte ponovo.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Preuzimanje nije uspjelo (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Preuzimanje $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Učitavanje liste izdanja…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Novija beta verzija se nalazi na listi ispod.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Za ovu ploču još nije objavljen firmver. I dalje možete instalirati sliku za oporavak s ovog računara.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Datoteka na ovom računaru…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (preporučeno)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Preporučeno",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Objavljeno $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Nije moguće pročitati listu izdanja: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Ako se ne može povezati, pogledajte \"Ako Choosatron nije pronađen\" u nastavku.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Slika za oporavak, $1$, iz izdanja ili vaše vlastite verzije.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Odaberite firmver",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Verzija",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Odaberite šta želite učiniti",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Povežite Choosatron sa ovim računarom pomoću USB-C kabla. Neki kablovi samo pune; ako se ništa ne pronađe, pokušajte s drugim.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Pritisnite $1$. Preglednik pita koji uređaj da koristi: odaberite onaj pod nazivom $2$ (na Windowsu, $3$ sa COM brojem).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Povežite i instalirajte",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Ostavite kabel spojen dok ova stranica ne pokaže da je završen.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB serijski uređaj",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Ponovna instalacija ili oporavak preko USB-a",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "nepoznato",
+    "source": "b23a6a8439c0"
+  }
+}

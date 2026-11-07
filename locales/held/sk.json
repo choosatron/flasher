@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta verzia",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stabilný",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Detaily",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ je nainštalovaná a Choosatron sa reštartuje. Jeho príbehy, playlisty a nastavenia sú také, aké boli.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ je nainštalovaná a Choosatron sa reštartuje s novými nastaveniami. Zobrazí sa ako vlastná otvorená Wi-Fi sieť s názvom Choosatron-, ktorú je možné znova nastaviť. Jeho príbehy a playlisty sa zachovajú.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Hotovo.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ je nainštalovaná na vymazanom zariadení Choosatron, ktoré sa reštartuje ako nové. Vytlačí si inštalačný list a zobrazí sa ako vlastná otvorená sieť Wi-Fi s názvom Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Opätovným pokusom sa nič nestratí: znova pripojte kábel a znova stlačte tlačidlo.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Inštalácia sa nedokončila.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Firmvér od $1$ · flashovanie od $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Znova stlačte $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Zariadenie Choosatron je vždy dostupné týmto spôsobom, bez ohľadu na to, ako veľmi je jeho firmvér poškodený. Ak prehliadač neuvádza žiadne zariadenie alebo sa inštalácia nemôže pripojiť:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Ručne ho prepnite do režimu obnovenia. Otvorte puzdro a nájdite dve malé tlačidlá na doske, $1$ a $2$. Podržte $3$, stlačte a uvoľnite $4$ a potom uvoľnite $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Skúste iný USB kábel a iný USB port na počítači.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Po inštalácii z režimu obnovenia stlačte raz $1$, ak sa Choosatron sám nereštartuje.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Ak sa Choosatron nenájde",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Nepodarilo sa určiť, pre ktorú dosku bol tento obrázok vytvorený.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Toto je aktualizačný obraz ($UPDATE$), nie obraz na obnovenie. Vyberte možnosť $RECOVERY$ alebo ho nainštalujte z karty Firmvér na webovej stránke Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Tento súbor nie je obraz na obnovenie systému Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Tento obraz je „$NAME$“, nie firmvér Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Tento obrázok sa dostal do úložiska príbehov, takže nejde o obraz na obnovenie Choosatron.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Tento súbor je príliš malý na to, aby sa dal použiť ako obraz na obnovenie.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Tento obraz bol vytvorený pre $BUILT$, nie $WANTED$. Na nesprávnej doske tlačidlá a tlačiareň nefungujú, kým nie je nainštalovaný správny obraz.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Postavené pre",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Veľkosť",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Verzia",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Inštalovať",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Pripájanie k Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Maže sa celá pamäť. Trvá to až minútu…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Nebol vybraný žiadny Choosatron.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ z $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Inštalácia a obnovenie nastavení",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "Napísané a overené $TOTAL$",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Vymazať všetko a nainštalovať",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Inštalácia. Nechajte kábel pripojený…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Toto zariadenie je $CHIP$, nie Choosatron (ESP32-S3). Nič nebolo napísané.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Táto doska má $SIZE$ pamäte flash; Choosatron má 16 MB. Nič nebolo zapísané.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux alebo Chromebook). Opera a ďalšie prehliadače vytvorené na Chrome zvyčajne tiež fungujú. Safari a Firefox sa nedajú nainštalovať cez USB, rovnako ako telefóny alebo tablety.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Firmvér",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Na počítači potrebujete prehliadač Chrome alebo Edge",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Túto stránku použite, keď sa Choosatron nespustí alebo ho nemožno aktualizovať z jeho vlastnej webovej stránky. Ak jeho webová stránka stále funguje, aktualizujte radšej z karty $1$: je to rýchlejšie a nevyžaduje to kábel.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Jazyk",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "odporúčané",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Preinštalujte",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Nahrádza firmvér. Príbehy, playlisty a nastavenia, vrátane Wi-Fi, zostávajú zachované.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Preinštalujte a resetujte nastavenia",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Taktiež obnoví všetky nastavenia do stavu, v akom boli, keď bol Choosatron nový, vrátane Wi-Fi, takže sa zobrazuje ako samostatná otvorená sieť. Príbehy a playlisty sa uchovávajú. Vyskúšajte to, ak samotná preinštalácia nepomohla.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Vymazať všetko",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Chápem, že každý príbeh na tomto Choosatron bude vymazaný.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Najprv vymaže celú pamäť: každý príbeh, playlist a prostredie. Choosatron sa spustí, akoby bol nový. Pre novú dosku alebo keď nič iné nefungovalo.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Otvorte túto stránku v prehliadači Chrome alebo Edge a začnite odznova.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Inštalácia cez USB vyžaduje $1$ alebo $2$ na počítači (Windows, macOS, Linux alebo Chromebook). Safari, Firefox a prehliadače v telefónoch a tabletoch nedokážu komunikovať so zariadeniami USB.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Tento prehliadač nemôže získať prístup k Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Exhibicionista",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Stiahnutý súbor je poškodený: nezodpovedá vydaniu. Znova načítajte stránku a skúste to znova.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Sťahovanie zlyhalo. Skontrolujte internetové pripojenie a skúste to znova.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Sťahovanie zlyhalo (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Sťahovanie $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Načítava sa zoznam vydaní…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Novšia beta verzia je v zozname nižšie.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Pre túto dosku zatiaľ nebol publikovaný žiadny firmvér. Z tohto počítača si stále môžete nainštalovať obraz pre obnovenie.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Súbor v tomto počítači…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (odporúčané)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Odporúčané",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Vydané $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Nepodarilo sa prečítať zoznam vydaní: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Ak sa nemôže pripojiť, pozrite si časť „Ak sa zariadenie Choosatron nenájde“ nižšie.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Obraz na obnovenie, $1$, z vydania alebo vlastnej zostavy.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Vyberte firmvér",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Verzia",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Vyberte si, čo chcete urobiť",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Pripojte Choosatron k tomuto počítaču pomocou kábla USB-C. Niektoré káble iba nabíjajú; ak sa nič nenájde, skúste iný.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Stlačte $1$. Prehliadač sa opýta, ktoré zariadenie má použiť: vyberte zariadenie s názvom $2$ (vo Windowse $3$ s číslom COM).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Pripojenie a inštalácia",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Nechajte kábel pripojený, kým sa na tejto stránke nezobrazí informácia o dokončení.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "Sériové zariadenie USB",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Preinštalujte alebo obnovte cez USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "neznámy",
+    "source": "b23a6a8439c0"
+  }
+}

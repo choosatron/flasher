@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "בטא",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "יַצִיב",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "פרטים",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ מותקן ו-Choosatron מופעל מחדש. הסיפורים, רשימות ההשמעה וההגדרות שלו נשארו כפי שהיו.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ מותקן ו-Choosatron מופעל מחדש עם ההגדרות שלו כחדשות. הוא מופיע כרשת Wi-Fi פתוחה משלו, בשם Choosatron-, כדי להגדיר אותה מחדש. הסיפורים ורשימות ההשמעה שלו נשמרים.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "נַעֲשָׂה.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ מותקן על Choosatron שנמחק, אשר מופעל מחדש כחדש. הוא מדפיס את שובר ההתקנה שלו ומופיע כרשת Wi-Fi פתוחה משלו, בשם Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "שום דבר לא הולך לאיבוד בניסיון נוסף: חבר מחדש את הכבל ולחץ שוב על הכפתור.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "ההתקנה לא הסתיימה.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "קושחה מ-$1$ · עדכון על ידי $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "לחץ שוב על $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "תמיד ניתן להגיע ל-Choosatron בדרך זו, גם אם הקושחה שלו פגומה. אם הדפדפן לא מציג התקן, או שההתקנה לא מצליחה להתחבר:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "העבירו אותו למצב שחזור ידנית. פתחו את המארז ומצאו את שני הכפתורים הקטנים על הלוח, $1$ ו- $2$. החזיקו את $3$, לחצו ושחררו את $4$, ואז שחררו את $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "נסה כבל USB אחר, ויציאת USB אחרת במחשב.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "לאחר התקנה ממצב שחזור, לחץ על $1$ פעם אחת אם ה-Choosatron לא מופעל מחדש מעצמו.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "אם ה-Choosatron לא נמצא",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "לא ניתן היה להבין לאיזה לוח נבנתה התמונה הזו.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "זוהי תמונת עדכון ($UPDATE$), לא תמונת שחזור. בחר $RECOVERY$, או התקן את התמונה הזו מלשונית הקושחה בדף האינטרנט של Choosatron עצמו.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "קובץ זה אינו תמונת שחזור Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "תמונה זו היא \"$NAME$\", לא קושחת Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "תמונה זו נכנסת לאחסון הסיפור, כך שזו אינה תמונת שחזור Choosatron.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "קובץ זה קטן מדי כדי לשמש כתמונת שחזור.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "תמונה זו נבנתה עבור $BUILT$, לא עבור $WANTED$. בלוח הלא נכון, הכפתורים והמדפסת לא פועלים עד להתקנת התמונה הנכונה.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "נבנה עבור",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "גוֹדֶל",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "גִרְסָה",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "לְהַתְקִין",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "מתחבר ל-Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "מוחק את כל הזיכרון. זה לוקח עד דקה...",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "לא נבחר Choosatron.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ מתוך $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "התקנה ואיפוס הגדרות",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ נכתב ואומת",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "למחוק הכל ולהתקין",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "מתקין. השאר את הכבל מחובר...",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "מכשיר זה הוא $CHIP$, לא Choosatron ‏(ESP32-S3). לא נכתב דבר.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "בלוח הזה יש $SIZE$ של זיכרון פלאש; ב-Choosatron יש 16MB. לא נכתב דבר.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux או Chromebook). אופרה ודפדפנים אחרים המבוססים על Chrome בדרך כלל פועלים גם כן. ספארי ופיירפוקס לא יכולים להתקין דרך USB, וגם לא טלפונים או טאבלטים.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "קושחה",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "אתה צריך Chrome או Edge במחשב",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "השתמש בדף זה כאשר Choosatron לא מופעל, או שלא ניתן לעדכן אותו מדף האינטרנט שלו. אם דף האינטרנט שלו עדיין עובד, עדכן במקום זאת מהכרטיסייה $1$ שם: זה מהיר יותר ואינו דורש כבל.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "שָׂפָה",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "מוּמלָץ",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "התקנה מחדש",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "מחליף את הקושחה. סיפורים, רשימות השמעה והגדרות, כולל Wi-Fi, כולם נשמרים.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "התקנה מחדש ואיפוס הגדרות",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "בנוסף, מחזיר כל הגדרה למצב שבו ה-Choosatron היה חדש, כולל Wi-Fi, כך שהוא מופיע כרשת פתוחה בפני עצמו. סיפורים ורשימות השמעה נשמרים. נסה זאת כאשר התקנה מחדש לבדה לא עזרה.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "מחק הכל",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "אני מבין שכל סיפור ב-Choosatron הזה יימחק.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "מוחק את כל הזיכרון קודם: כל סיפור, רשימת השמעה ותפאורה. ה-Choosatron מתחיל כאילו היה חדש. עבור לוח חדש, או כאשר שום דבר אחר לא עבד.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "פתח דף זה ב-Chrome או ב-Edge והתחל מחדש.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "התקנה דרך USB דורשת $1$ או $2$ במחשב (Windows, macOS, Linux או Chromebook). ספארי, פיירפוקס ודפדפנים בטלפונים וטאבלטים אינם יכולים לתקשר עם התקני USB.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "דפדפן זה אינו יכול להגיע ל-Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron פלאש",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "ההורדה פגומה: היא אינה תואמת את הגרסה. טען מחדש את הדף ונסה שוב.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "ההורדה נכשלה. בדוק את חיבור האינטרנט ונסה שוב.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "ההורדה נכשלה (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "מוריד $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "טוען את רשימת המהדורות...",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "גרסת בטא חדשה יותר נמצאת ברשימה למטה.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "עדיין לא פורסמה קושחה עבור לוח זה. עדיין ניתן להתקין תמונת שחזור ממחשב זה.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "קובץ במחשב הזה…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (מומלץ)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "מוּמלָץ",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "יצא לאור ב-$DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "לא ניתן היה לקרוא את רשימת המהדורות: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "אם לא ניתן להתחבר, ראה \"אם ה-Choosatron לא נמצא\" להלן.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "תמונת השחזור, $1$, מגרסה או גירסה משלך.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "בחר את הקושחה",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "גִרְסָה",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "בחר מה לעשות",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "חבר את ה-Choosatron למחשב זה באמצעות כבל USB-C. חלק מהכבלים נטענים בלבד; אם לא נמצא דבר, נסה כבל אחר.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "לחץ על $1$. הדפדפן שואל באיזה מכשיר להשתמש: בחר את המכשיר ששמו $2$ (ב-Windows, $3$ עם מספר COM).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "חיבור והתקנה",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "השאר את הכבל מחובר עד שהדף הזה יראה שזה סיים.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "התקן טורי USB",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "התקנה מחדש או שחזור דרך USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "לֹא יְדוּעַ",
+    "source": "b23a6a8439c0"
+  }
+}

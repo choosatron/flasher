@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Бэта-версія",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Стабільны",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Падрабязнасці",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ усталявана, і Choosatron перазапускаецца. Яго гісторыі, плэйлісты і налады засталіся ранейшымі.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ усталявана, і Choosatron перазапускаецца з новымі наладамі. Ён адкрываецца як уласная адкрытая сетка Wi-Fi пад назвай Choosatron- для паўторнай налады. Яго гісторыі і плэйлісты захоўваюцца.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Гатова.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ усталявана на сцёртым Choosatron, які перазапускаецца як новы. Ён друкуе сваю ўстаноўку і адлюстроўваецца як уласная адкрытая сетка Wi-Fi пад назвай Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Нічога не страціце, калі паспрабуеце яшчэ раз: зноў падключыце кабель і націсніце кнопку.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Усталёўка не скончылася.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Прашыўка ад $1$ · прашыўка ад $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Націсніце $1$ яшчэ раз.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Да Choosatron заўсёды можна дабрацца такім чынам, незалежна ад таго, наколькі пашкоджана яго прашыўка. Калі ў браўзеры няма прылады або ўсталёўшчык не можа падключыцца:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Уручную ўвядзіце яго ў рэжым аднаўлення. Адкрыйце корпус і знайдзіце на плаце дзве маленькія кнопкі, $1$ і $2$. Утрымлівайце $3$, націсніце і адпусціце $4$, затым адпусціце $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Паспрабуйце іншы USB-кабель і іншы USB-порт на кампутары.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Пасля ўсталёўкі з рэжыму аднаўлення націсніце $1$ адзін раз, калі Choosatron не перазагрузіцца самастойна.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Калі Choosatron не знойдзены",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Не магу вызначыць, для якой дошкі быў створаны гэты вобраз.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Гэта вобраз абнаўлення ($UPDATE$), а не вобраз аднаўлення. Выберыце $RECOVERY$ або ўсталюйце яго з укладкі «Прашыўка» на вэб-старонцы Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Гэты файл не з'яўляецца вобразам аднаўлення Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Гэты вобраз — «$NAME$», а не прашыўка Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Гэты вобраз трапляе ў сховішча гісторый, таму ён не з'яўляецца вобразам для аднаўлення Choosatron.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Гэты файл занадта малы для стварэння вобраза аднаўлення.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Гэты вобраз быў створаны для $BUILT$, а не $WANTED$. На няправільнай плаце кнопкі і прынтар не будуць працаваць, пакуль не будзе ўсталяваны правільны вобраз.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Створана для",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Памер",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Версія",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Усталяваць",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Падключэнне да Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Сціраецца ўся памяць. Гэта займае да хвіліны…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Не быў абраны Choosatron.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ з $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Усталяваць і скінуць налады",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ напісана і праверана",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Сцерці ўсё і ўсталяваць",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Усталёўваецца. Пакіньце кабель падлучаным…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Гэта прылада $CHIP$, а не Choosatron (ESP32-S3). Нічога не запісана.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "На гэтай плаце $SIZE$ флэш-памяці; на Choosatron — 16 МБ. Нічога не запісана.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux або Chromebook). Opera і іншыя браўзеры, створаныя на базе Chrome, звычайна таксама працуюць. Safari і Firefox, а таксама тэлефоны і планшэты нельга ўсталяваць праз USB.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Прашыўка",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Вам патрэбен Chrome або Edge на камп'ютары",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Выкарыстоўвайце гэтую старонку, калі Choosatron не запускаецца або не можа быць абноўлены з яго ўласнай вэб-старонкі. Калі яго вэб-старонка ўсё яшчэ працуе, абнавіце яе з укладкі $1$: гэта хутчэй і не патрабуе кабеля.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Мова",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "рэкамендаваны",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Пераўсталяваць",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Замяняе прашыўку. Гісторыі, плэйлісты і налады, у тым ліку Wi-Fi, захоўваюцца.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Пераўсталюйце і скіньце налады",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Таксама ўсе налады вяртаюцца да таго стану, у якім яны былі, калі Choosatron быў новым, у тым ліку Wi-Fi, таму ён адлюстроўваецца як асобная адкрытая сетка. Гісторыі і плэйлісты захоўваюцца. Паспрабуйце гэта, калі адна толькі пераўсталёўка не дапамагла.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Сцерці ўсё",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Я разумею, што кожная гісторыя на гэтым Choosatron будзе сцёртая.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Спачатку сцірае ўсю памяць: кожную гісторыю, плэйліст і настрой. Choosatron запускаецца так, быццам ён новы. Для новай дошкі або калі нічога іншага не працуе.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Адкрыйце гэтую старонку ў Chrome або Edge і пачніце спачатку.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Для ўсталёўкі праз USB патрабуецца $1$ ці $2$ на камп'ютары (Windows, macOS, Linux або Chromebook). Safari, Firefox і браўзеры на тэлефонах і планшэтах не могуць узаемадзейнічаць з USB-прыладамі.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Гэты браўзер не можа звязацца з Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Мігалка",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Спампаваны файл пашкоджаны: ён не адпавядае рэлізу. Перазагрузіце старонку і паспрабуйце яшчэ раз.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Памылка загрузкі. Праверце падключэнне да Інтэрнэту і паспрабуйце яшчэ раз.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Памылка загрузкі (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Спампоўваецца $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Загрузка спісу рэлізаў…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Новая бэта-версія знаходзіцца ў спісе ніжэй.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Для гэтай платы пакуль не апублікавана прашыўка. Вы ўсё яшчэ можаце ўсталяваць вобраз аднаўлення з гэтага кампутара.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Файл на гэтым камп'ютары…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (рэкамендуецца)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Рэкамендавана",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Выпушчана $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Не атрымалася прачытаць спіс рэлізаў: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Калі падключэнне не ўдаецца, глядзіце раздзел «Калі Choosatron не знойдзены» ніжэй.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ МБ",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Вобраз аднаўлення, $1$, з рэлізу або вашай уласнай зборкі.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Выберыце прашыўку",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Версія",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Выберыце, што рабіць",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Падключыце Choosatron да гэтага камп'ютара з дапамогай кабеля USB-C. Некаторыя кабелі толькі зараджаюць прыладу; калі нічога не знойдзена, паспрабуйце іншы.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Націсніце $1$. Браўзер запытае, якую прыладу выкарыстоўваць: выберыце прыладу з назвай $2$ (у Windows — $3$ з нумарам COM).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Падключыць і ўсталяваць",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Пакіньце кабель падлучаным, пакуль на гэтай старонцы не будзе пазначана, што гэта будзе зроблена.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "Паслядоўны USB-прылада",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Пераўсталяваць або аднавіць праз USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "невядомы",
+    "source": "b23a6a8439c0"
+  }
+}
