@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "穩定版",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "細節",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ 已安裝，Choosatron 正在重新啟動。它的故事、播放清單和設定都和以前一樣。",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ 已安裝，Choosatron 正在重啟，並恢復其初始設定。它會顯示為一個名為 Choosatron- 的獨立開放 Wi-Fi 網絡，需要重新設定。它的故事和播放清單都已保留。",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "完畢。",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$安裝在已擦除的Choosatron上，該 Choosatron 正在重新啟動。它列印出設定單，並作為自己的開放 Wi-Fi 網路出現，名為Choosatron-。",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "再試一次也無妨：重新連接電纜，再按一次按鈕。",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "安裝未完成。",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "韌體來自 $1$ · 由 $2$ 刷寫",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "再按$1$。",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "即使 Choosatron 的韌體損壞程度很高，也始終可以透過這種方式存取它。如果瀏覽器未列出任何設備，或安裝程式無法連線：",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "手動將其置於恢復模式。打開機箱，找到主機板上的兩個小按鈕 $1$ 和 $2$。按住 $3$，按下並放開 $4$，然後放開 $5$。",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "嘗試更換一條USB線，並嘗試電腦上的另一個USB介面。",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "從恢復模式安裝後，如果 Choosatron 沒有自行重啟，請按一次 $1$。",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "如果找不到 Choosatron",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "無法判斷此鏡像檔案是為哪個開發板製作的。",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "這是一個更新鏡像（$UPDATE$），不是恢復鏡像。請選擇 $RECOVERY$，或從 Choosatron 官方網頁的「韌體」標籤中安裝此鏡像。",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "此檔案不是 Choosatron 復原映像。",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "此鏡像為「$NAME$」韌體，而非「Choosatron」韌體。",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "此映像會存取故事存儲，因此它不是 Choosatron 恢復映像。",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "這個檔案太小，不能當作恢復鏡像。",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "此鏡像檔案是為 $BUILT$ 主機板製作的，而非 $WANTED$ 主機板。如果安裝在錯誤的主機板上，按鈕和印表機將無法運作，直到安裝正確的鏡像檔案為止。",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "專為",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "尺寸",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "版本",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "安裝",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "正在連接到 Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "清除所有記憶體。這最多需要一分鐘…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "沒有選擇 Choosatron。",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$TOTAL$ 的 $DONE$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "安裝和重置設定",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ 已撰寫並核實",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "清除所有內容並安裝",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "安裝中。請保持電纜連接…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "該設備型號為 $CHIP$，而非 Choosatron（ESP32-S3）。未寫入任何內容。",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "此闆卡有 $SIZE$ 容量的快閃記憶體；Choosatron 容量的快閃記憶體容量為 16MB。未寫入任何資料。",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$（Windows、macOS、Linux 或 Chromebook）。 Opera 和其他基於 Chrome 的瀏覽器通常也能正常運作。 Safari 和 Firefox 無法透過 USB 安裝，手機或平板電腦也不行。",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "韌體",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "你需要電腦上的 Chrome 或 Edge 瀏覽器。",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "當 Choosatron 無法啟動或無法透過其自身網頁更新時，請使用此頁面。如果其網頁仍然可以正常訪問，請改用網頁上的 $1$ 選項卡進行更新：這樣速度更快，而且無需連接線。",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "語言",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "受到推崇的",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "重新安裝",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "替換韌體。故事、播放清單、設定以及 Wi-Fi 連線等所有內容都將保留。",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "重新安裝並重置設定",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "此外，所有設定（包括 Wi-Fi）都會恢復到 Choosatron 出廠時的狀態，使其顯示為獨立的開放網路。故事和播放清單也會保留。如果單獨重新安裝系統無效，請嘗試此方法。",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "抹去一切",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "我知道關於這個 Choosatron 的所有故事都將被刪除。",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "首先清除所有記憶體：包括所有故事、播放清單和設定。 Choosatron 會像新的一樣重新開始。適用於新版塊，或在其他方法都無效的情況下。",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "請在 Chrome 或 Edge 瀏覽器中開啟此頁面，然後重新開始。",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "透過 USB 安裝需要在電腦（Windows、macOS、Linux 或 Chromebook）上使用 $1$ 或 $2$ 介面。 Safari、Firefox 以及手機和平板電腦上的瀏覽器無法與 USB 裝置通訊。",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "此瀏覽器無法存取 Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron 閃光燈",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "下載的檔案已損壞：它與版本不符。請刷新頁面並重試。",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "下載失敗。請檢查網路連線並重試。",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "下載失敗（HTTP $STATUS$）。",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "正在下載 $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "正在載入版本列表…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "下方列表中包含一個較新的測試版。",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "目前尚未發布適用於此主機板的韌體。您仍然可以從這台電腦安裝恢復鏡像。",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "這台電腦上的一個檔案…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$（推薦）",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "受到推崇的",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "已發布 $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "無法讀取版本清單：$ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "如果無法連接，請參閱下面的「如果找不到 Choosatron」。",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "還原映像 $1$，來自發布版本或您自己的建置版本。",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "選擇韌體",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "版本",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "選擇做什麼",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "使用 USB-C 連接線將 Choosatron 連接到電腦。部分數據線僅支援充電；如果電腦無法辨識設備，請嘗試使用其他數據線。",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "按下 $1$。瀏覽器會詢問要使用哪個裝置：選擇名為 $2$ 的裝置（在 Windows 系統上，名稱為 $3$，附有 COM 編號）。",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "連接並安裝",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "保持連接線連接，直到此頁面顯示完成為止。",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB 串口裝置",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "透過 USB 重新安裝或恢復",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "未知",
+    "source": "b23a6a8439c0"
+  }
+}

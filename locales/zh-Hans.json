@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "稳定版",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "细节",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ 已安装，Choosatron 正在重启。它的故事、播放列表和设置都和以前一样。",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ 已安装，Choosatron 正在重启，并恢复其初始设置。它会显示为一个名为 Choosatron- 的独立开放 Wi-Fi 网络，需要重新设置。它的故事和播放列表都已保留。",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "完毕。",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$安装在已擦除的Choosatron上，该 Choosatron 正在重新启动。它打印出设置单，并作为自己的开放 Wi-Fi 网络出现，名为Choosatron-。",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "再试一次也无妨：重新连接电缆，再按一次按钮。",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "安装未完成。",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "固件来自 $1$ · 由 $2$ 刷写",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "再按$1$。",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "即使 Choosatron 的固件损坏程度很高，也始终可以通过这种方式访问它。如果浏览器未列出任何设备，或者安装程序无法连接：",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "手动将其置于恢复模式。打开机箱，找到主板上的两个小按钮 $1$ 和 $2$。按住 $3$，按下并松开 $4$，然后松开 $5$。",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "尝试更换一根USB数据线，并尝试电脑上的另一个USB接口。",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "从恢复模式安装后，如果 Choosatron 没有自行重启，请按一次 $1$。",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "如果找不到 Choosatron",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "无法判断此镜像文件是为哪个开发板制作的。",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "这是一个更新镜像（$UPDATE$），不是恢复镜像。请选择 $RECOVERY$，或者从 Choosatron 官方网页的“固件”选项卡中安装此镜像。",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "此文件不是 Choosatron 恢复映像。",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "此镜像为“$NAME$”固件，而非“Choosatron”固件。",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "此映像会访问故事存储，因此它不是 Choosatron 恢复映像。",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "这个文件太小，不能作为恢复镜像。",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "此镜像文件是为 $BUILT$ 主板制作的，而非 $WANTED$ 主板。如果安装在错误的主板上，按钮和打印机将无法工作，直到安装正确的镜像文件为止。",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "专为",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "尺寸",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "版本",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "安装",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "正在连接到 Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "清除所有内存。这最多需要一分钟……",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "没有选择 Choosatron。",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$TOTAL$ 的 $DONE$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "安装和重置设置",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ 已撰写并核实",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "清除所有内容并安装",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "安装中。请保持电缆连接……",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "该设备型号为 $CHIP$，而非 Choosatron（ESP32-S3）。未写入任何内容。",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "该板卡有 $SIZE$ 的闪存；Choosatron 的闪存容量为 16MB。未写入任何数据。",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$（Windows、macOS、Linux 或 Chromebook）。Opera 和其他基于 Chrome 的浏览器通常也能正常工作。Safari 和 Firefox 无法通过 USB 安装，手机或平板电脑也不行。",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "固件",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "你需要电脑上的 Chrome 或 Edge 浏览器。",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "当 Choosatron 无法启动或无法通过其自身网页更新时，请使用此页面。如果其网页仍然可以正常访问，请改用网页上的 $1$ 选项卡进行更新：这样速度更快，而且无需连接线。",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "语言",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "受到推崇的",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "重新安装",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "替换固件。故事、播放列表、设置以及 Wi-Fi 连接等所有内容都将保留。",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "重新安装并重置设置",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "此外，所有设置（包括 Wi-Fi）都会恢复到 Choosatron 出厂时的状态，使其显示为独立的开放网络。故事和播放列表也会保留。如果单独重新安装系统无效，请尝试此方法。",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "抹去一切",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "我知道关于这个 Choosatron 的所有故事都将被删除。",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "首先清除所有内存：包括所有故事、播放列表和设置。Choosatron 会像新的一样重新开始。适用于新版块，或在其他方法都无效的情况下。",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "请在 Chrome 或 Edge 浏览器中打开此页面，然后重新开始。",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "通过 USB 安装需要在电脑（Windows、macOS、Linux 或 Chromebook）上使用 $1$ 或 $2$ 接口。Safari、Firefox 以及手机和平板电脑上的浏览器无法与 USB 设备通信。",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "此浏览器无法访问 Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron 闪光灯",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "下载的文件已损坏：它与版本不匹配。请刷新页面并重试。",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "下载失败。请检查网络连接并重试。",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "下载失败（HTTP $STATUS$）。",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "正在下载 $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "正在加载版本列表…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "下方列表中包含一个较新的测试版。",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "目前尚未发布适用于此主板的固件。您仍然可以从这台电脑安装恢复镜像。",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "这台电脑上的一个文件……",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$（推荐）",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "受到推崇的",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "已发布 $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "无法读取版本列表：$ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "如果无法连接，请参阅下面的“如果找不到 Choosatron”。",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "恢复映像 $1$，来自发布版本或您自己的构建版本。",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "选择固件",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "版本",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "选择做什么",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "使用 USB-C 数据线将 Choosatron 连接到电脑。部分数据线仅支持充电；如果电脑无法识别设备，请尝试使用其他数据线。",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "按下 $1$。浏览器会询问要使用哪个设备：选择名为 $2$ 的设备（在 Windows 系统上，名称为 $3$，带有 COM 编号）。",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "连接并安装",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "保持连接线连接，直到此页面显示完成为止。",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB 串口设备",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "通过 USB 重新安装或恢复",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "未知",
+    "source": "b23a6a8439c0"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stabilny",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Bliższe dane",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ jest zainstalowany, a Choosatron uruchamia się ponownie. Jego historie, playlisty i ustawienia są takie same jak wcześniej.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ jest zainstalowany, a Choosatron uruchamia się ponownie z nowymi ustawieniami. Pojawia się jako własna otwarta sieć Wi-Fi o nazwie Choosatron-, którą należy ponownie skonfigurować. Historie i playlisty pozostają zachowane.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Zrobione.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ jest zainstalowany na wyczyszczonym komputerze Choosatron, który uruchamia się ponownie jako nowy. Drukuje swój paragon i pojawia się jako własna otwarta sieć Wi-Fi o nazwie Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Nic nie stracisz próbując ponownie: podłącz kabel i naciśnij przycisk jeszcze raz.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Instalacja nie została ukończona.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Oprogramowanie układowe od $1$ · flashowanie przez $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Naciśnij $1$ ponownie.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Do Choosatron zawsze można dotrzeć w ten sposób, niezależnie od tego, jak bardzo uszkodzone jest jego oprogramowanie układowe. Jeśli przeglądarka nie wyświetla żadnego urządzenia lub instalacja nie może się połączyć:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Przełącz urządzenie w tryb recovery ręcznie. Otwórz obudowę i znajdź dwa małe przyciski na płytce: $1$ i $2$. Przytrzymaj $3$, naciśnij i zwolnij $4$, a następnie puść $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Wypróbuj inny kabel USB i inny port USB w komputerze.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Po instalacji w trybie odzyskiwania naciśnij raz $1$, jeśli Choosatron nie uruchomi się ponownie samoczynnie.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Jeśli Choosatron nie zostanie znaleziony",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Nie potrafię określić, dla jakiej płyty został stworzony ten obraz.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "To jest obraz aktualizacji ($UPDATE$), a nie obraz odzyskiwania. Wybierz $RECOVERY$ lub zainstaluj go z zakładki „Oprogramowanie układowe” na stronie internetowej Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Ten plik nie jest obrazem odzyskiwania Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Na tym obrazku jest „$NAME$”, a nie oprogramowanie układowe Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Obraz ten sięga do pamięci historii, więc nie jest obrazem odzyskiwania Choosatron.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Ten plik jest za mały, aby mógł być obrazem odzyskiwania.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Ten obraz został stworzony dla $BUILT$, a nie $WANTED$. Na niewłaściwej płycie przyciski i drukarka nie działają, dopóki nie zostanie zainstalowany właściwy obraz.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Zbudowany dla",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Rozmiar",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Wersja",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Zainstalować",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Łączenie z Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Wymazywanie całej pamięci. Zajmuje to około minuty…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Nie wybrano Choosatron.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ z $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Zainstaluj i zresetuj ustawienia",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ napisane i zweryfikowane",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Wymaż wszystko i zainstaluj",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Instalowanie. Pozostaw kabel podłączony…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "To urządzenie to $CHIP$, a nie Choosatron (ESP32-S3). Nic nie zostało napisane.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Ta płyta ma $SIZE$ pamięci flash; Choosatron ma 16 MB. Nic nie zostało zapisane.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux lub Chromebook). Opera i inne przeglądarki oparte na Chrome zazwyczaj również działają. Safari i Firefox nie mogą zostać zainstalowane przez USB, podobnie jak telefony i tablety.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Firmware",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Potrzebujesz przeglądarki Chrome lub Edge na komputerze",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Użyj tej strony, gdy Choosatron nie uruchamia się lub nie można go zaktualizować z jego własnej strony internetowej. Jeśli strona internetowa nadal działa, zaktualizuj ją z zakładki $1$: jest to szybsze i nie wymaga kabla.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Język",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "zalecony",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Zainstaluj ponownie",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Zastępuje oprogramowanie układowe. Historie, playlisty i ustawienia, w tym Wi-Fi, pozostają zachowane.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Ponowna instalacja i zresetowanie ustawień",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Przywraca również wszystkie ustawienia do stanu sprzed premiery Choosatron, w tym Wi-Fi, dzięki czemu urządzenie wyświetla się jako odrębna otwarta sieć. Historie i playlisty są zachowywane. Spróbuj tego, jeśli sama ponowna instalacja nie pomogła.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Wymaż wszystko",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Rozumiem, że każda historia na tym Choosatron zostanie usunięta.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Najpierw kasuje całą pamięć: każdą historię, playlistę i ustawienie. Choosatron uruchamia się jak nowy. Na nowej planszy lub gdy nic innego nie działało.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Otwórz tę stronę w Chrome lub Edge i zacznij od nowa.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Instalacja przez USB wymaga systemu $1$ lub $2$ na komputerze (z systemem Windows, macOS, Linux lub Chromebook). Safari, Firefox i przeglądarki na telefonach i tabletach nie komunikują się z urządzeniami USB.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Ta przeglądarka nie może dotrzeć do Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Flasher",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Pobrany plik jest uszkodzony: nie pasuje do wydania. Odśwież stronę i spróbuj jeszcze raz.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Pobieranie nie powiodło się. Sprawdź połączenie internetowe i spróbuj ponownie.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Pobieranie nie powiodło się (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Pobieranie $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Ładowanie listy wydań…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Nowszą wersję beta znajdziesz na liście poniżej.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Oprogramowanie układowe dla tej płyty głównej nie zostało jeszcze opublikowane. Nadal możesz zainstalować obraz odzyskiwania z tego komputera.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Plik na tym komputerze…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (zalecane)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Zalecony",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Wydano $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Nie można odczytać listy wydań: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Jeśli nie można nawiązać połączenia, zapoznaj się z sekcją „Jeśli Choosatron nie został znaleziony” poniżej.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Obraz odzyskiwania $1$ z własnej wersji lub kompilacji.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Wybierz oprogramowanie układowe",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Wersja",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Wybierz, co zrobić",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Podłącz Choosatron do tego komputera kablem USB-C. Niektóre kable służą tylko do ładowania; jeśli nic nie zostanie znalezione, wypróbuj inny.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Naciśnij $1$. Przeglądarka zapyta, którego urządzenia użyć: wybierz urządzenie o nazwie $2$ (w systemie Windows $3$ z numerem COM).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Podłącz i zainstaluj",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Pozostaw kabel podłączony, dopóki na tej stronie nie pojawi się komunikat informujący o zakończeniu operacji.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "Urządzenie szeregowe USB",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Ponowna instalacja lub odzyskanie przez USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "nieznany",
+    "source": "b23a6a8439c0"
+  }
+}

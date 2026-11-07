@@ -28,6 +28,28 @@ flash region compared before and after. The flash layout is `partitions.csv` in
 It only lists Espressif USB devices, refuses anything that is not an ESP32-S3 with 16 MB
 of flash, and reads every part back to compare it after writing.
 
+## Languages
+
+The page speaks the 15 languages the Choosatron's own web page does. It follows the
+browser's language (primary subtag and script; `zh-Hans` and `zh-Hant` apart), and a picker
+in the header changes it and remembers the choice in this browser.
+
+The marking conventions are the device page's (`i18n.js` explains them): the English lives
+in `index.html` and in `t('key', 'English')` calls, and a sentence with markup keeps its
+elements as `$1$`, `$2$`. To change or add text:
+
+    python3 tools/extract_strings.py                 # locales/en.json from the source
+    cd ../choosatron-esp32/choosatron
+    python3 tools/15_translate_locales.py --all --retranslate-stale \
+        --catalog ../../cdam-flasher/locales/en.json --locales ../../cdam-flasher/locales
+    cd ../../cdam-flasher
+    python3 tools/shared_strings.py                  # words shared with the device page
+    python3 tools/extract_strings.py check
+
+`shared_strings.py` copies the device's own translation for the few words both pages use
+(the Firmware tab, the Stable channel), so the flasher never names a tab differently from
+the Choosatron. The packs are machine translations and welcome a human read.
+
 ## Testing
 
 Web Serial works on `localhost`, so serve a folder that holds this repo as `flasher/`
@@ -37,6 +59,7 @@ testing only:
 - `?firmware=<url>`: where `releases.json` lives (default `../firmware/`)
 - `?board=<name>`: which board's images to offer (default `wroom-v0.1`; `xiao-v0.1` for
   dev units)
+- `?lang=<tag>`: start in this language
 - `?after=no_reset`: leave the chip in its flasher when done, so the flash can be read
   back before the firmware boots and writes to it
 

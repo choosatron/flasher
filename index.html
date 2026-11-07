@@ -11,79 +11,68 @@
 <main>
 
 <header>
-   <h1>Choosatron</h1>
-   <div class="sub">Reinstall or recover over USB</div>
+   <h1 translate="no">Choosatron</h1>
+   <div class="sub" data-i18n="title">Reinstall or recover over USB</div>
+   <div class="lang-row">
+      <label for="lang" class="sr-only" data-i18n="language">Language</label>
+      <select id="lang" translate="no"></select>
+   </div>
 </header>
 
 <!-- Shown instead of everything below when the browser has no Web Serial. -->
 <div class="card bad" id="no-serial" hidden>
-   <h2>This browser cannot reach a Choosatron</h2>
-   <p>Installing over USB needs <strong>Chrome</strong> or <strong>Edge</strong> on a computer
-      (Windows, macOS, Linux or a Chromebook). Safari, Firefox, and browsers on phones and
-      tablets cannot talk to USB devices.</p>
-   <p class="dim">Open this page in Chrome or Edge and start again.</p>
+   <h2 data-i18n="no_serial.title">This browser cannot reach a Choosatron</h2>
+   <p data-i18n-parts="no_serial.need">Installing over USB needs <strong>Chrome</strong> or <strong>Edge</strong> on a computer (Windows, macOS, Linux or a Chromebook). Safari, Firefox, and browsers on phones and tablets cannot talk to USB devices.</p>
+   <p class="dim" data-i18n="no_serial.again">Open this page in Chrome or Edge and start again.</p>
 </div>
 
 <div id="app">
 
-<p class="intro">Use this page when a Choosatron will not start, or cannot be updated from its
-   own web page. If its web page still works, update from the <strong>Firmware</strong> tab
-   there instead: it is quicker and needs no cable.</p>
+<p class="intro" data-i18n-parts="intro.when">Use this page when a Choosatron will not start, or cannot be updated from its own web page. If its web page still works, update from the <strong data-i18n="intro.firmware_tab">Firmware</strong> tab there instead: it is quicker and needs no cable.</p>
 
-<p class="intro"><strong>You need Chrome or Edge on a computer</strong> (Windows, macOS, Linux or
-   a Chromebook). Opera and other browsers built on Chrome usually work too. Safari and
-   Firefox cannot install over USB, and neither can phones or tablets.</p>
+<p class="intro" data-i18n-parts="intro.browsers"><strong data-i18n="intro.need_browser">You need Chrome or Edge on a computer</strong> (Windows, macOS, Linux or a Chromebook). Opera and other browsers built on Chrome usually work too. Safari and Firefox cannot install over USB, and neither can phones or tablets.</p>
 
 <div class="card">
-   <h2><span class="step">1</span> Choose the firmware</h2>
-   <div id="fw-latest" class="latest">Loading the list of releases&hellip;</div>
-   <label for="fw-pick">Version</label>
+   <h2><span class="step">1</span> <span data-i18n="step1.title">Choose the firmware</span></h2>
+   <div id="fw-latest" class="latest"></div>
+   <label for="fw-pick" data-i18n="step1.version">Version</label>
    <select id="fw-pick" disabled></select>
    <div id="fw-file-row" hidden>
       <input type="file" id="fw-file" accept=".bin,application/octet-stream">
-      <p class="dim small">The recovery image, <code>choosatron-factory.bin</code>, from a
-         release or a build of your own.</p>
+      <p class="dim small" data-i18n-parts="step1.file_hint">The recovery image, <code translate="no">choosatron-factory.bin</code>, from a release or a build of your own.</p>
    </div>
    <div id="fw-info" class="info" hidden></div>
 </div>
 
 <div class="card">
-   <h2><span class="step">2</span> Choose what to do</h2>
+   <h2><span class="step">2</span> <span data-i18n="step2.title">Choose what to do</span></h2>
    <label class="choice">
       <input type="radio" name="mode" value="reinstall" checked>
-      <span><strong>Reinstall</strong> <span class="tag">recommended</span><br>
-      <span class="dim">Replaces the firmware. Stories, playlists and settings, Wi-Fi
-         included, are all kept.</span></span>
+      <span><strong data-i18n="mode.reinstall">Reinstall</strong> <span class="tag" data-i18n="mode.recommended">recommended</span><br>
+      <span class="dim" data-i18n="mode.reinstall_text">Replaces the firmware. Stories, playlists and settings, Wi-Fi included, are all kept.</span></span>
    </label>
    <label class="choice">
       <input type="radio" name="mode" value="settings">
-      <span><strong>Reinstall and reset settings</strong><br>
-      <span class="dim">Also puts every setting back to how it was when the Choosatron was new,
-         Wi-Fi included, so it comes up as its own open network. Stories and playlists are
-         kept. Try this when a reinstall alone did not help.</span></span>
+      <span><strong data-i18n="mode.settings">Reinstall and reset settings</strong><br>
+      <span class="dim" data-i18n="mode.settings_text">Also puts every setting back to how it was when the Choosatron was new, Wi-Fi included, so it comes up as its own open network. Stories and playlists are kept. Try this when a reinstall alone did not help.</span></span>
    </label>
    <label class="choice">
       <input type="radio" name="mode" value="wipe">
-      <span><strong>Erase everything</strong><br>
-      <span class="dim">Erases the whole memory first: every story, playlist and setting. The
-         Choosatron starts as if it were new. For a new board, or when nothing else
-         worked.</span></span>
+      <span><strong data-i18n="mode.wipe">Erase everything</strong><br>
+      <span class="dim" data-i18n="mode.wipe_text">Erases the whole memory first: every story, playlist and setting. The Choosatron starts as if it were new. For a new board, or when nothing else worked.</span></span>
    </label>
    <label class="confirm" id="wipe-confirm-row" hidden>
       <input type="checkbox" id="wipe-confirm">
-      <span>I understand that every story on this Choosatron will be erased.</span>
+      <span data-i18n="mode.wipe_confirm">I understand that every story on this Choosatron will be erased.</span>
    </label>
 </div>
 
 <div class="card">
-   <h2><span class="step">3</span> Connect and install</h2>
+   <h2><span class="step">3</span> <span data-i18n="step3.title">Connect and install</span></h2>
    <ol class="steps">
-      <li>Connect the Choosatron to this computer with a USB-C cable. Some cables only charge;
-         if nothing is found, try another.</li>
-      <li>Press <strong>Install</strong>. The browser asks which device to use: pick the one
-         named <em>USB JTAG/serial debug unit</em> (on Windows, a <em>USB Serial Device</em>
-         with a COM number).</li>
-      <li>Leave the cable connected until this page says it is done.</li>
+      <li data-i18n="step3.cable">Connect the Choosatron to this computer with a USB-C cable. Some cables only charge; if nothing is found, try another.</li>
+      <li data-i18n-parts="step3.pick">Press <strong data-i18n="install.button">Install</strong>. The browser asks which device to use: pick the one named <em translate="no">USB JTAG/serial debug unit</em> (on Windows, a <em data-i18n="step3.windows_device">USB Serial Device</em> with a COM number).</li>
+      <li data-i18n="step3.wait">Leave the cable connected until this page says it is done.</li>
    </ol>
    <button type="button" id="install" disabled>Install</button>
    <div id="progress" class="progress" hidden>
@@ -92,33 +81,25 @@
    </div>
    <div id="status" class="status" hidden></div>
    <details id="log-box">
-      <summary>Details</summary>
-      <pre id="log"></pre>
+      <summary data-i18n="details">Details</summary>
+      <pre id="log" translate="no"></pre>
    </details>
 </div>
 
 <div class="card">
-   <h2>If the Choosatron is not found</h2>
-   <p>A Choosatron can always be reached this way, however broken its firmware is. If the
-      browser lists no device, or the install cannot connect:</p>
+   <h2 data-i18n="help.title">If the Choosatron is not found</h2>
+   <p data-i18n="help.always">A Choosatron can always be reached this way, however broken its firmware is. If the browser lists no device, or the install cannot connect:</p>
    <ol class="steps">
-      <li>Try another USB cable, and another USB port on the computer.</li>
-      <li>Put it into recovery mode by hand. Open the case and find the two small buttons on
-         the board, <strong>BOOT</strong> and <strong>RESET</strong>. Hold
-         <strong>BOOT</strong>, press and release <strong>RESET</strong>, then let go of
-         <strong>BOOT</strong>.</li>
-      <li>Press <strong>Install</strong> again.</li>
+      <li data-i18n="help.cable">Try another USB cable, and another USB port on the computer.</li>
+      <li data-i18n-parts="help.buttons">Put it into recovery mode by hand. Open the case and find the two small buttons on the board, <strong translate="no">BOOT</strong> and <strong translate="no">RESET</strong>. Hold <strong translate="no">BOOT</strong>, press and release <strong translate="no">RESET</strong>, then let go of <strong translate="no">BOOT</strong>.</li>
+      <li data-i18n-parts="help.again">Press <strong data-i18n="install.button">Install</strong> again.</li>
    </ol>
-   <p class="dim">After an install from recovery mode, press <strong>RESET</strong> once if
-      the Choosatron does not restart by itself.</p>
+   <p class="dim" data-i18n-parts="help.reset">After an install from recovery mode, press <strong translate="no">RESET</strong> once if the Choosatron does not restart by itself.</p>
 </div>
 
 </div>
 
-<footer>
-   Firmware from <a href="../firmware/">choosatron.github.io/firmware</a> &middot;
-   flashing by <a href="https://github.com/espressif/esptool-js">esptool-js</a>
-</footer>
+<footer data-i18n-parts="footer">Firmware from <a href="../firmware/" translate="no">choosatron.github.io/firmware</a> &middot; flashing by <a href="https://github.com/espressif/esptool-js" translate="no">esptool-js</a></footer>
 
 </main>
 <script src="vendor/spark-md5-3.0.2/spark-md5.min.js"></script>

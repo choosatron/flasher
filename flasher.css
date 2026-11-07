@@ -95,3 +95,6 @@ pre {
 }
 footer { text-align: center; color: var(--dim); font-size: 0.85em; margin-top: 3em; }
 [hidden] { display: none !important; }
+.lang-row { margin-top: 0.9em; display: flex; justify-content: center; }
+.lang-row select { width: auto; font-family: inherit; font-size: 0.9em; padding: 0.35em 0.6em; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
