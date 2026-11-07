@@ -22,7 +22,8 @@ firmware, which board it was built for, and the release's SHA-256), then writes 
 | Erase everything | erases the whole chip, then the whole image | erased | erased |
 
 All three were run from this page against a XIAO on 2026-11-06 (cdam-fniz.2), with each
-flash region compared before and after. The flash layout is `partitions.csv` in
+flash region compared before and after. On Windows, Chrome and Edge both flashed a XIAO with no driver or setup
+(2026-11-07). The flash layout is `partitions.csv` in
 `choosatron-esp32`; see `docs/firmware-runbook.md` §6 there.
 
 It only lists Espressif USB devices, refuses anything that is not an ESP32-S3 with 16 MB
