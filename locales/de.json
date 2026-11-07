@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stabil",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Details",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ ist installiert und Choosatron wird neu gestartet. Seine Geschichten, Wiedergabelisten und Einstellungen sind unverändert.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ ist installiert und Choosatron startet mit den neuen Einstellungen neu. Es erscheint als eigenes offenes WLAN-Netzwerk mit dem Namen Choosatron- und muss erneut eingerichtet werden. Seine Stories und Playlists bleiben erhalten.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Erledigt.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ wird auf einem gelöschten Choosatron installiert, das als neues System neu startet. Es druckt seinen Installationsbeleg und erscheint als eigenes offenes WLAN-Netzwerk mit dem Namen Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Nichts geht verloren, wenn man es noch einmal versucht: Schließen Sie das Kabel wieder an und drücken Sie den Knopf erneut.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Die Installation wurde nicht abgeschlossen.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Firmware von $1$ · geflasht von $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Drücken Sie erneut $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Ein Choosatron-Gerät ist auf diesem Weg immer erreichbar, selbst wenn die Firmware fehlerhaft ist. Falls der Browser kein Gerät anzeigt oder die Installation keine Verbindung herstellen kann:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Versetzen Sie das Gerät manuell in den Wiederherstellungsmodus. Öffnen Sie das Gehäuse und suchen Sie die beiden kleinen Tasten $1$ und $2$ auf der Platine. Halten Sie $3$ gedrückt, drücken Sie kurz $4$ und lassen Sie dann $5$ los.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Versuchen Sie es mit einem anderen USB-Kabel und einem anderen USB-Anschluss am Computer.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Nach einer Installation aus dem Wiederherstellungsmodus drücken Sie einmal die Taste $1$, falls Choosatron nicht von selbst neu startet.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Wenn Choosatron nicht gefunden wird",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Es konnte nicht festgestellt werden, für welches Board dieses Bild erstellt wurde.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Dies ist ein Update-Image ($UPDATE$), kein Wiederherstellungs-Image. Wählen Sie $RECOVERY$ oder installieren Sie dieses Image über den Firmware-Tab auf der Webseite von Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Diese Datei ist kein Choosatron-Wiederherstellungsabbild.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Dieses Image ist die \"$NAME$\", nicht die Choosatron-Firmware.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Dieses Image greift in den Story-Speicher ein, es handelt sich also nicht um ein Choosatron-Wiederherstellungsimage.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Diese Datei ist zu klein, um als Wiederherstellungsabbild zu dienen.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Dieses Image wurde für $BUILT$ und nicht für $WANTED$ erstellt. Auf der falschen Platine funktionieren die Tasten und der Drucker erst nach Installation des richtigen Images.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Gebaut für",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Größe",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Version",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Installieren",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Verbindung zum Choosatron herstellen…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Der gesamte Speicher wird gelöscht. Dies dauert bis zu einer Minute…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Es wurde kein Choosatron ausgewählt.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ von $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Einstellungen installieren und zurücksetzen",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ geschrieben und bestätigt",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Alles löschen und installieren",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Installation. Kabel angeschlossen lassen…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Dieses Gerät ist vom Typ $CHIP$, nicht Choosatron (ESP32-S3). Es wurde nichts geschrieben.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Diese Platine verfügt über $SIZE$ Flash-Speicher; eine Choosatron-Platine hat 16 MB. Es wurde nichts beschrieben.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux oder Chromebook). Opera und andere auf Chrome basierende Browser funktionieren in der Regel ebenfalls. Safari und Firefox lassen sich nicht über USB installieren, ebenso wenig wie Smartphones oder Tablets.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Firmware",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Sie benötigen Chrome oder Edge auf einem Computer.",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Verwenden Sie diese Seite, wenn ein Choosatron nicht startet oder nicht über seine Webseite aktualisiert werden kann. Falls die Webseite noch funktioniert, aktualisieren Sie stattdessen über den $1$-Tab dort: Das geht schneller und erfordert kein Kabel.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Sprache",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "empfohlen",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Neuinstallation",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Die Firmware wird ersetzt. Geschichten, Wiedergabelisten und Einstellungen, einschließlich WLAN, bleiben erhalten.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Neu installieren und Einstellungen zurücksetzen",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Außerdem werden alle Einstellungen auf den Auslieferungszustand des Choosatron zurückgesetzt, inklusive WLAN, sodass es als eigenes offenes Netzwerk erkannt wird. Geschichten und Wiedergabelisten bleiben erhalten. Versuchen Sie dies, wenn eine Neuinstallation allein nicht geholfen hat.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Alles löschen",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Mir ist bekannt, dass alle Geschichten auf diesem Choosatron gelöscht werden.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Löscht zunächst den gesamten Speicher: alle Geschichten, Playlists und Einstellungen. Das Choosatron startet dann wie neu. Für ein neues Board oder wenn nichts anderes mehr funktioniert.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Öffnen Sie diese Seite in Chrome oder Edge und beginnen Sie von vorn.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Für die Installation über USB wird ein Computer (Windows, macOS, Linux oder Chromebook) mit der Kennung $1$ oder $2$ benötigt. Safari, Firefox und Browser auf Smartphones und Tablets können nicht mit USB-Geräten kommunizieren.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Dieser Browser kann keine Choosatron-Adresse erreichen.",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Blinker",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Der Download ist beschädigt: Er stimmt nicht mit der Version überein. Laden Sie die Seite neu und versuchen Sie es erneut.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Der Download ist fehlgeschlagen. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Der Download ist fehlgeschlagen (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "$VERSION$ ($SIZE$) wird heruntergeladen…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Lade die Liste der Veröffentlichungen…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Eine neuere Betaversion finden Sie in der folgenden Liste.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Für dieses Board wurde noch keine Firmware veröffentlicht. Sie können dennoch ein Wiederherstellungsabbild von diesem Computer installieren.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Eine Datei auf diesem Computer…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (empfohlen)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Empfohlen",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Veröffentlicht $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Die Liste der Veröffentlichungen konnte nicht gelesen werden: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Falls keine Verbindung hergestellt werden kann, lesen Sie bitte den Abschnitt „Wenn Choosatron nicht gefunden wird“ weiter unten.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Das Wiederherstellungsabbild $1$ aus einer Release-Version oder einem eigenen Build.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Wählen Sie die Firmware aus.",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Version",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Entscheide, was du tun möchtest.",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Verbinden Sie den Choosatron mit diesem Computer über ein USB-C-Kabel. Manche Kabel laden nur; falls kein Gerät erkannt wird, versuchen Sie es mit einem anderen.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Drücken Sie $1$. Der Browser fragt, welches Gerät verwendet werden soll: Wählen Sie das mit der Bezeichnung $2$ (unter Windows ein $3$ mit einer COM-Nummer).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Verbinden und installieren",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Lassen Sie das Kabel angeschlossen, bis auf dieser Seite angezeigt wird, dass der Vorgang abgeschlossen ist.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB-Seriellgerät",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Neuinstallation oder Wiederherstellung über USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "unbekannt",
+    "source": "b23a6a8439c0"
+  }
+}

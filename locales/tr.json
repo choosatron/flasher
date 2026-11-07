@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stabil",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Detaylar",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ yüklendi ve Choosatron yeniden başlatılıyor. Hikayeleri, oynatma listeleri ve ayarları eskisi gibi.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ yüklendi ve Choosatron ayarları yeni olarak yeniden başlatılıyor. Yeniden kurulum için Choosatron- adında kendi açık Wi-Fi ağı olarak açılıyor. Hikayeleri ve oynatma listeleri korunuyor.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Tamamlamak.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$, silinmiş ve yeni olarak yeniden başlatılan Choosatron üzerine kurulmuştur. Kurulum fişini yazdırır ve Choosatron- adında kendi açık Wi-Fi ağı olarak çalışmaya başlar.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Tekrar denemekten hiçbir şey kaybetmezsiniz: kabloyu yeniden bağlayın ve düğmeye tekrar basın.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Kurulum tamamlanmadı.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "$1$'ten gelen ürün yazılımı · $2$ tarafından yükleniyor",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "$1$ tuşuna tekrar basın.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Bir Choosatron cihazına, yazılımı ne kadar bozuk olursa olsun, her zaman bu şekilde ulaşılabilir. Tarayıcıda hiçbir cihaz listelenmiyorsa veya kurulum bağlantı kuramıyorsa:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Cihazı elle kurtarma moduna alın. Kasayı açın ve kart üzerindeki $1$ ve $2$ numaralı iki küçük düğmeyi bulun. $3$ düğmesini basılı tutun, $4$ düğmesine basıp bırakın, ardından $5$ düğmesini bırakın.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Başka bir USB kablosu ve bilgisayardaki başka bir USB bağlantı noktası deneyin.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Kurtarma modundan yükleme işleminden sonra, Choosatron kendiliğinden yeniden başlatılmazsa $1$ tuşuna bir kez basın.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Choosatron bulunamazsa",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Bu görselin hangi forum için oluşturulduğunu anlayamadım.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Bu bir güncelleme imajıdır ($UPDATE$), kurtarma imajı değildir. $RECOVERY$'i seçin veya bu imajı Choosatron'in kendi web sayfasındaki Firmware sekmesinden yükleyin.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Bu dosya bir Choosatron kurtarma imajı değildir.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Bu görüntü \"$NAME$\" ürün yazılımıdır, Choosatron ürün yazılımı değildir.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Bu görüntü, hikaye depolama alanına erişiyor, bu nedenle bir Choosatron kurtarma görüntüsü değil.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Bu dosya kurtarma görüntüsü olarak kullanılamayacak kadar küçük.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Bu imaj $BUILT$ için oluşturulmuştur, $WANTED$ için değil. Yanlış kartta, doğru imaj yüklenene kadar düğmeler ve yazıcı çalışmaz.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Şunun için üretildi:",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Boyut",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Sürüm",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Düzenlemek",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Choosatron'e bağlanılıyor…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Tüm hafızayı silme işlemi. Bu işlem bir dakikaya kadar sürebilir…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Hiçbir Choosatron seçilmedi.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$'ın $TOTAL$'i",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Ayarları yükle ve sıfırla",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ tarafından yazılmış ve doğrulanmıştır.",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Her şeyi sil ve yeniden yükle.",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Kurulum. Kabloyu bağlı bırakın…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Bu cihaz $CHIP$'tir, Choosatron (ESP32-S3) değildir. Hiçbir şey yazılmadı.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Bu kartta $SIZE$ adet flash bellek bulunmaktadır; bir Choosatron kartta 16 MB flash bellek vardır. Hiçbir şey yazılmadı.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux veya Chromebook). Opera ve Chrome tabanlı diğer tarayıcılar da genellikle çalışır. Safari ve Firefox USB üzerinden yüklenemez, telefonlar veya tabletler de yüklenemez.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Ürün yazılımı",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Bilgisayarınızda Chrome veya Edge tarayıcısı yüklü olmalı.",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Choosatron başlatılamıyorsa veya kendi web sayfasından güncellenemiyorsa bu sayfayı kullanın. Web sayfası hala çalışıyorsa, bunun yerine oradaki $1$ sekmesinden güncelleyin: daha hızlıdır ve kablo gerektirmez.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Dil",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "tavsiye edilen",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Yeniden yükle",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Yazılımın güncellenmiş halini değiştirir. Hikayeler, çalma listeleri ve ayarlar, Wi-Fi dahil olmak üzere her şey korunur.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Yeniden yükle ve ayarları sıfırla",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Ayrıca, Wi-Fi dahil olmak üzere tüm ayarları Choosatron yeni alındığında olduğu haline geri getirir, böylece kendi açık ağı olarak görünür. Hikayeler ve oynatma listeleri korunur. Yalnızca yeniden yükleme işe yaramadığında bunu deneyin.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Her şeyi sil",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Bu Choosatron'taki tüm haberlerin silineceğini anlıyorum.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Önce tüm hafızayı siler: her hikayeyi, çalma listesini ve ayarı. Choosatron sanki yeniymiş gibi başlar. Yeni bir oyun tahtası için veya başka hiçbir şey işe yaramadığında.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Bu sayfayı Chrome veya Edge'de açın ve yeniden başlayın.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "USB üzerinden kurulum için bilgisayarda (Windows, macOS, Linux veya Chromebook) $1$ veya $2$ yüklü olması gerekir. Safari, Firefox ve telefon/tablet tarayıcıları USB cihazlarıyla iletişim kuramaz.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Bu tarayıcı Choosatron adresine ulaşamıyor.",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Flaşör",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "İndirilen dosya hasarlı: sürümle uyuşmuyor. Sayfayı yeniden yükleyin ve tekrar deneyin.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "İndirme başarısız oldu. İnternet bağlantınızı kontrol edin ve tekrar deneyin.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "İndirme başarısız oldu (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "$VERSION$ ($SIZE$) indiriliyor…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Yayın listesi yükleniyor…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Aşağıdaki listede daha yeni bir beta sürümü bulunmaktadır.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Bu anakart için henüz hiçbir bellenim yayınlanmadı. Yine de bu bilgisayardan bir kurtarma imajı yükleyebilirsiniz.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Bu bilgisayardaki bir dosya…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (önerilen)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Tavsiye edilen",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Yayınlandı $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Yayın listesi okunamadı: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Bağlantı kurulamıyorsa, aşağıdaki \"Choosatron bulunamadıysa\" bölümüne bakın.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Kendi yayınladığınız veya oluşturduğunuz bir sürümden alınan kurtarma imajı, $1$.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Ürün yazılımını seçin",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Sürüm",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Ne yapacağınıza karar verin.",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Choosatron cihazını USB-C kablosuyla bu bilgisayara bağlayın. Bazı kablolar yalnızca şarj eder; eğer bir sorun tespit edilirse, başka bir kablo deneyin.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "$1$'e basın. Tarayıcı hangi aygıtı kullanacağınızı soracaktır: $2$ olarak adlandırılanı seçin (Windows'ta, COM numarasıyla birlikte $3$).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Bağla ve kur",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Bu sayfada işlemin tamamlandığı belirtilene kadar kabloyu bağlı bırakın.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB Seri Aygıtı",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "USB üzerinden yeniden yükleyin veya kurtarın.",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "bilinmiyor",
+    "source": "b23a6a8439c0"
+  }
+}

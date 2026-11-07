@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Beta",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Stabiel",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Details",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ is geïnstalleerd en de Choosatron wordt opnieuw opgestart. De verhalen, afspeellijsten en instellingen zijn ongewijzigd.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ is geïnstalleerd en de Choosatron start opnieuw op met de oude instellingen. Hij verschijnt als een eigen open wifi-netwerk, genaamd Choosatron-, dat opnieuw ingesteld moet worden. De verhalen en afspeellijsten blijven behouden.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Klaar.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ wordt geïnstalleerd op een gewiste Choosatron, die opnieuw opstart als een nieuw apparaat. Het print zijn installatiebon en verschijnt als een eigen open Wi-Fi-netwerk, genaamd Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Je verliest niets door het opnieuw te proberen: sluit de kabel weer aan en druk nogmaals op de knop.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "De installatie is niet voltooid.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Firmware van $1$ · flashen door $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Druk nogmaals op $1$.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "Een Choosatron is op deze manier altijd bereikbaar, hoe defect de firmware ook is. Als de browser geen apparaat weergeeft of als de installatie geen verbinding kan maken:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Zet het apparaat handmatig in de herstelmodus. Open de behuizing en zoek de twee kleine knoppen op het moederbord, $1$ en $2$. Houd $3$ ingedrukt, druk kort op $4$ en laat vervolgens $5$ los.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Probeer een andere USB-kabel en een andere USB-poort op de computer.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "Als de Choosatron na een installatie vanuit de herstelmodus niet vanzelf opnieuw opstart, druk dan één keer op $1$.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Als de Choosatron niet gevonden wordt",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Het was onduidelijk voor welk bord deze afbeelding bedoeld was.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Dit is een update-image ($UPDATE$), geen herstel-image. Kies $RECOVERY$, of installeer deze via het tabblad Firmware op de webpagina van de Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Dit bestand is geen Choosatron-herstelimage.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Deze afbeelding is \"$NAME$\", niet Choosatron-firmware.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Deze afbeelding is afkomstig uit het verhaalgeheugen en is dus geen Choosatron-herstelimage.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Dit bestand is te klein om een herstelimage te zijn.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Deze image is gemaakt voor $BUILT$, niet voor $WANTED$. Op het verkeerde moederbord werken de knoppen en de printer niet totdat de juiste image is geïnstalleerd.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Gebouwd voor",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Maat",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Versie",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Installeren",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Verbinding maken met de Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Het hele geheugen wissen. Dit kan tot een minuut duren…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Er werd geen Choosatron gekozen.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ van $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Installatie- en resetinstellingen",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ geschreven en geverifieerd",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Alles wissen en installeren",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Installatie. Laat de kabel aangesloten…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Dit apparaat is $CHIP$, geen Choosatron (ESP32-S3). Er is niets op geschreven.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "Dit bord heeft $SIZE$ aan flashgeheugen; een Choosatron heeft 16 MB. Er is niets beschreven.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux of een Chromebook). Opera en andere browsers die op Chrome zijn gebaseerd, werken meestal ook. Safari en Firefox kunnen niet via USB worden geïnstalleerd, en dat geldt ook voor telefoons en tablets.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Firmware",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Je hebt Chrome of Edge op een computer nodig.",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Gebruik deze pagina als een Choosatron niet opstart of niet kan worden bijgewerkt via de eigen webpagina. Als de webpagina nog wel werkt, kunt u de update uitvoeren via het $1$-tabblad op die pagina: dat is sneller en vereist geen kabel.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Taal",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "aanbevolen",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Opnieuw installeren",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Vervangt de firmware. Verhalen, afspeellijsten en instellingen, inclusief wifi, blijven allemaal behouden.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Opnieuw installeren en instellingen resetten",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Hiermee worden alle instellingen teruggezet naar de staat waarin ze zich bevonden toen de Choosatron nieuw was, inclusief wifi, zodat deze als een eigen open netwerk wordt herkend. Verhalen en afspeellijsten blijven behouden. Probeer dit als een herinstallatie alleen niet heeft geholpen.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Wis alles",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Ik begrijp dat elk verhaal op deze Choosatron zal worden verwijderd.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Het wist eerst het hele geheugen: elk verhaal, elke afspeellijst en elke instelling. De Choosatron start alsof hij nieuw is. Voor een nieuw bord, of wanneer niets anders werkte.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Open deze pagina in Chrome of Edge en begin opnieuw.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Voor installatie via USB is een USB-poort met de juiste aanduiding $1$ of $2$ vereist op een computer (Windows, macOS, Linux of een Chromebook). Safari, Firefox en browsers op telefoons en tablets kunnen niet communiceren met USB-apparaten.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Deze browser kan geen verbinding maken met Choosatron.",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Knipperlicht",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "De download is beschadigd: deze komt niet overeen met de release. Vernieuw de pagina en probeer het opnieuw.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "De download is mislukt. Controleer uw internetverbinding en probeer het opnieuw.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "De download is mislukt (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "$VERSION$ ($SIZE$) downloaden…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "De lijst met releases wordt geladen…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Een nieuwere bètaversie staat in de onderstaande lijst.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Er is nog geen firmware voor dit moederbord uitgebracht. Je kunt echter wel een herstelimage vanaf deze computer installeren.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "Een bestand op deze computer…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (aanbevolen)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Aanbevolen",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Uitgebracht $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "De lijst met releases kon niet worden gelezen: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Als er geen verbinding tot stand kan worden gebracht, raadpleeg dan \"Als de Choosatron niet wordt gevonden\" hieronder.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "De herstelimage, $1$, afkomstig van een release of een eigen build.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Kies de firmware",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Versie",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Kies wat je wilt doen",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Sluit de Choosatron met een USB-C-kabel aan op deze computer. Sommige kabels laden alleen op; als er niets wordt gedetecteerd, probeer dan een andere kabel.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Druk op $1$. De browser vraagt welk apparaat u wilt gebruiken: kies het apparaat met de naam $2$ (op Windows is dit een $3$ met een COM-nummer).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Verbinden en installeren",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Laat de kabel aangesloten totdat deze pagina aangeeft dat het proces is voltooid.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB-serieel apparaat",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Opnieuw installeren of herstellen via USB",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "onbekend",
+    "source": "b23a6a8439c0"
+  }
+}

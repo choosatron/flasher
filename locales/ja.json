@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "ベータ",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "安定版",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "詳細",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$がインストールされ、Choosatronが再起動しています。ストーリー、プレイリスト、設定は以前の状態のままです。",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$がインストールされ、Choosatronは設定を新規にして再起動します。Choosatron-という名前の独自のオープンWi-Fiネットワークとして起動し、再設定が必要になります。ストーリーとプレイリストは保持されます。",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "終わり。",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$は消去されたChoosatronにインストールされ、新規として再起動されます。セットアップシートが印刷され、Choosatron-という名前の独自のオープンWi-Fiネットワークとして起動します。",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "もう一度試してみても何も失うものはありません。ケーブルを再び接続して、もう一度ボタンを押してください。",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "インストールが完了しませんでした。",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "$1$のファームウェア · $2$によるフラッシュ",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "もう一度$1$を押してください。",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "ファームウェアにどんな不具合があっても、Choosatronには常にこの方法でアクセスできます。ブラウザにデバイスが表示されない場合、またはインストールが接続できない場合は、次の手順に従ってください。",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "手動でリカバリーモードにします。ケースを開けて、基板上の2つの小さなボタン、$1$と$2$を見つけます。$3$を押し続け、$4$を押して離し、次に$5$を離します。",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "別のUSBケーブルと、コンピューターの別のUSBポートを試してみてください。",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "リカバリーモードからのインストール後、Choosatronが自動的に再起動しない場合は、$1$を1回押してください。",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Choosatronが見つからない場合",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "この画像がどのボード向けに作成されたものか判別できませんでした。",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "これはアップデートイメージ（$UPDATE$）であり、リカバリイメージではありません。$RECOVERY$を選択するか、Choosatronのウェブページのファームウェアタブからこのイメージをインストールしてください。",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "このファイルはChoosatronリカバリイメージではありません。",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "このイメージは「$NAME$」であり、Choosatronファームウェアではありません。",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "このイメージはストーリーストレージにアクセスするため、Choosatronリカバリイメージではありません。",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "このファイルはリカバリイメージとしては小さすぎます。",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "このイメージは$BUILT$用に作成されたものであり、$WANTED$用ではありません。間違った基板では、正しいイメージがインストールされるまでボタンやプリンターが動作しません。",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "構築対象",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "サイズ",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "バージョン",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "インストール",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Choosatronに接続中…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "メモリ全体を消去しています。これには最大1分ほどかかります…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Choosatronは選択されませんでした。",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ of $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "インストールと設定のリセット",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ が書かれ、検証されました",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "すべて消去してインストールします",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "インストール中です。ケーブルは接続したままにしてください…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "このデバイスは$CHIP$であり、Choosatron（ESP32-S3）ではありません。何も書き込まれていません。",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "このボードには$SIZE$のフラッシュメモリが搭載されています。Choosatronは16MBです。何も書き込まれていません。",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$（Windows、macOS、Linux、またはChromebook）。OperaやChromeベースの他のブラウザも通常は動作します。SafariとFirefoxはUSB経由でのインストールはできません。また、スマートフォンやタブレットも同様です。",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "ファームウェア",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "パソコンにはChromeまたはEdgeが必要です",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Choosatronが起動しない場合、または専用のウェブページからアップデートできない場合は、このページを使用してください。ウェブページが正常に動作している場合は、そちらの$1$タブからアップデートしてください。その方が速く、ケーブルも不要です。",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "言語",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "推奨",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "再インストール",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "ファームウェアを置き換えます。ストーリー、プレイリスト、設定（Wi-Fi設定を含む）はすべて保持されます。",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "再インストールして設定をリセットする",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "また、Wi-Fiを含むすべての設定をChoosatronが新品だった時の状態に戻し、独自のオープンネットワークとして認識されるようにします。ストーリーやプレイリストは保持されます。再インストールだけでは解決しない場合に、この方法をお試しください。",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "全て消去する",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "このChoosatron上のすべての記事が消去されることを理解しています。",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "まず、すべてのストーリー、プレイリスト、設定など、すべてのメモリを消去します。Choosatronはまるで新品のように起動します。新しいボードを使用する場合や、他の方法がすべてうまくいかなかった場合に有効です。",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "このページをChromeまたはEdgeで開き、最初からやり直してください。",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "USB経由でインストールするには、コンピューター（Windows、macOS、Linux、またはChromebook）に$1$または$2$がインストールされている必要があります。Safari、Firefox、およびスマートフォンやタブレットのブラウザはUSBデバイスと通信できません。",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "このブラウザはChoosatronにアクセスできません",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron フラッシャー",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "ダウンロードファイルが破損しています。リリース版と一致しません。ページを再読み込みして、もう一度お試しください。",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "ダウンロードに失敗しました。インターネット接続を確認して、もう一度お試しください。",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "ダウンロードに失敗しました（HTTP $STATUS$）。",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "$VERSION$ ($SIZE$) をダウンロード中…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "リリース一覧を読み込んでいます…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "より新しいベータ版は以下のリストにあります。",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "このボード用のファームウェアはまだ公開されていません。ただし、このコンピュータからリカバリイメージをインストールすることは可能です。",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$、$DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "このコンピューター上のファイル…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$、$DATE$（推奨）",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "推奨",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "$DATE$をリリースしました",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "リリース一覧を読み取れませんでした: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "接続できない場合は、下記の「Choosatronが見つからない場合」を参照してください。",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "リリース版または独自のビルド版のリカバリイメージ（$1$）。",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "ファームウェアを選択してください",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "バージョン",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "何をするか選択してください",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "ChoosatronをUSB-Cケーブルでこのコンピューターに接続してください。ケーブルによっては充電専用のものもあります。何も見つからない場合は、別のケーブルをお試しください。",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "$1$を押してください。ブラウザが使用するデバイスを選択するように求めますので、$2$という名前のデバイスを選択してください（Windowsの場合は、COM番号付きの$3$）。",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "接続してインストールする",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "このページに完了のメッセージが表示されるまで、ケーブルは接続したままにしておいてください。",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USBシリアルデバイス",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "USB経由で再インストールまたは復元する",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "未知",
+    "source": "b23a6a8439c0"
+  }
+}

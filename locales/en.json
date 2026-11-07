@@ -1,0 +1,268 @@
+{
+  "channel.beta": {
+    "message": "Beta"
+  },
+  "channel.stable": {
+    "message": "Stable"
+  },
+  "details": {
+    "message": "Details"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ is installed and the Choosatron is restarting. Its stories, playlists and settings are as they were.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "done.settings": {
+    "message": "$VERSION$ is installed and the Choosatron is restarting with its settings as new. It comes up as its own open Wi-Fi network, named Choosatron-, to set up again. Its stories and playlists are kept.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "done.title": {
+    "message": "Done."
+  },
+  "done.wipe": {
+    "message": "$VERSION$ is installed on an erased Choosatron, which is restarting as new. It prints its setup slip and comes up as its own open Wi-Fi network, named Choosatron-.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "failed.retry": {
+    "message": "Nothing is lost by trying again: reconnect the cable and press the button again."
+  },
+  "failed.title": {
+    "message": "The install did not finish."
+  },
+  "footer": {
+    "message": "Firmware from $1$ · flashing by $2$",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "help.again": {
+    "message": "Press $1$ again.",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "help.always": {
+    "message": "A Choosatron can always be reached this way, however broken its firmware is. If the browser lists no device, or the install cannot connect:"
+  },
+  "help.buttons": {
+    "message": "Put it into recovery mode by hand. Open the case and find the two small buttons on the board, $1$ and $2$. Hold $3$, press and release $4$, then let go of $5$.",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "help.cable": {
+    "message": "Try another USB cable, and another USB port on the computer."
+  },
+  "help.reset": {
+    "message": "After an install from recovery mode, press $1$ once if the Choosatron does not restart by itself.",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "help.title": {
+    "message": "If the Choosatron is not found"
+  },
+  "image.board_unknown": {
+    "message": "Could not tell which board this image was built for."
+  },
+  "image.is_update": {
+    "message": "This is an update image ($UPDATE$), not a recovery image. Pick $RECOVERY$, or install this one from the Firmware tab of the Choosatron’s own web page.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "image.not_recovery": {
+    "message": "This file is not a Choosatron recovery image."
+  },
+  "image.other_project": {
+    "message": "This image is \"$NAME$\", not Choosatron firmware.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "image.too_big": {
+    "message": "This image reaches into the story storage, so it is not a Choosatron recovery image."
+  },
+  "image.too_small": {
+    "message": "This file is too small to be a recovery image."
+  },
+  "image.wrong_board": {
+    "message": "This image was built for $BUILT$, not $WANTED$. On the wrong board the buttons and printer do not work until the right image is installed.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "info.board": {
+    "message": "Built for"
+  },
+  "info.size": {
+    "message": "Size"
+  },
+  "info.version": {
+    "message": "Version"
+  },
+  "install.button": {
+    "message": "Install"
+  },
+  "install.connecting": {
+    "message": "Connecting to the Choosatron…"
+  },
+  "install.erasing": {
+    "message": "Erasing the whole memory. This takes up to a minute…"
+  },
+  "install.none_chosen": {
+    "message": "No Choosatron was chosen."
+  },
+  "install.progress": {
+    "message": "$DONE$ of $TOTAL$",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "install.settings": {
+    "message": "Install and reset settings"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ written and verified",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "install.wipe": {
+    "message": "Erase everything and install"
+  },
+  "install.writing": {
+    "message": "Installing. Leave the cable connected…"
+  },
+  "install.wrong_chip": {
+    "message": "This device is $CHIP$, not a Choosatron (ESP32-S3). Nothing was written.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "install.wrong_flash": {
+    "message": "This board has $SIZE$ of flash; a Choosatron has 16MB. Nothing was written.",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux or a Chromebook). Opera and other browsers built on Chrome usually work too. Safari and Firefox cannot install over USB, and neither can phones or tablets.",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "intro.firmware_tab": {
+    "message": "Firmware"
+  },
+  "intro.need_browser": {
+    "message": "You need Chrome or Edge on a computer"
+  },
+  "intro.when": {
+    "message": "Use this page when a Choosatron will not start, or cannot be updated from its own web page. If its web page still works, update from the $1$ tab there instead: it is quicker and needs no cable.",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "language": {
+    "message": "Language"
+  },
+  "mode.recommended": {
+    "message": "recommended"
+  },
+  "mode.reinstall": {
+    "message": "Reinstall"
+  },
+  "mode.reinstall_text": {
+    "message": "Replaces the firmware. Stories, playlists and settings, Wi-Fi included, are all kept."
+  },
+  "mode.settings": {
+    "message": "Reinstall and reset settings"
+  },
+  "mode.settings_text": {
+    "message": "Also puts every setting back to how it was when the Choosatron was new, Wi-Fi included, so it comes up as its own open network. Stories and playlists are kept. Try this when a reinstall alone did not help."
+  },
+  "mode.wipe": {
+    "message": "Erase everything"
+  },
+  "mode.wipe_confirm": {
+    "message": "I understand that every story on this Choosatron will be erased."
+  },
+  "mode.wipe_text": {
+    "message": "Erases the whole memory first: every story, playlist and setting. The Choosatron starts as if it were new. For a new board, or when nothing else worked."
+  },
+  "no_serial.again": {
+    "message": "Open this page in Chrome or Edge and start again."
+  },
+  "no_serial.need": {
+    "message": "Installing over USB needs $1$ or $2$ on a computer (Windows, macOS, Linux or a Chromebook). Safari, Firefox, and browsers on phones and tablets cannot talk to USB devices.",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "no_serial.title": {
+    "message": "This browser cannot reach a Choosatron"
+  },
+  "page_title": {
+    "message": "Choosatron Flasher"
+  },
+  "releases.damaged": {
+    "message": "The download is damaged: it does not match the release. Reload the page and try again."
+  },
+  "releases.download_failed": {
+    "message": "The download failed. Check the internet connection and try again."
+  },
+  "releases.download_http": {
+    "message": "The download failed (HTTP $STATUS$).",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "releases.downloading": {
+    "message": "Downloading $VERSION$ ($SIZE$)…",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "releases.loading": {
+    "message": "Loading the list of releases…"
+  },
+  "releases.newer_beta": {
+    "message": "A newer beta is in the list below."
+  },
+  "releases.none": {
+    "message": "No firmware has been published for this board yet. You can still install a recovery image from this computer."
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "releases.option_file": {
+    "message": "A file on this computer…"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (recommended)",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "releases.recommended": {
+    "message": "Recommended"
+  },
+  "releases.released": {
+    "message": "Released $DATE$",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "releases.unreadable": {
+    "message": "Could not read the list of releases: $ERROR$",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "see_not_found": {
+    "message": "If it cannot connect, see \"If the Choosatron is not found\" below."
+  },
+  "size_mb": {
+    "message": "$SIZE$ MB",
+    "description": "Words between dollar signs, like $VERSION$, are filled in by the page; keep them as they are."
+  },
+  "step1.file_hint": {
+    "message": "The recovery image, $1$, from a release or a build of your own.",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "step1.title": {
+    "message": "Choose the firmware"
+  },
+  "step1.version": {
+    "message": "Version"
+  },
+  "step2.title": {
+    "message": "Choose what to do"
+  },
+  "step3.cable": {
+    "message": "Connect the Choosatron to this computer with a USB-C cable. Some cables only charge; if nothing is found, try another."
+  },
+  "step3.pick": {
+    "message": "Press $1$. The browser asks which device to use: pick the one named $2$ (on Windows, a $3$ with a COM number).",
+    "description": "A sentence that contains markup. $1$, $2$ and so on are the page's own elements (bold text, links, names) - move them where the sentence needs them, but do not translate or drop the markers."
+  },
+  "step3.title": {
+    "message": "Connect and install"
+  },
+  "step3.wait": {
+    "message": "Leave the cable connected until this page says it is done."
+  },
+  "step3.windows_device": {
+    "message": "USB Serial Device"
+  },
+  "title": {
+    "message": "Reinstall or recover over USB"
+  },
+  "unknown": {
+    "message": "unknown"
+  }
+}

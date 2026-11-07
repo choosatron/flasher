@@ -1,0 +1,322 @@
+{
+  "channel.beta": {
+    "message": "Бета",
+    "source": "703390318bd5"
+  },
+  "channel.stable": {
+    "message": "Стабильный",
+    "source": "90ee305714d7"
+  },
+  "details": {
+    "message": "Подробности",
+    "source": "45989de49fb7"
+  },
+  "done.reinstall": {
+    "message": "$VERSION$ установлен, и Choosatron перезапускается. Его истории, плейлисты и настройки остались прежними.",
+    "source": "93f1bc9056ec"
+  },
+  "done.settings": {
+    "message": "$VERSION$ установлен, и Choosatron перезагружается с новыми настройками. Он подключается как собственная открытая сеть Wi-Fi под названием Choosatron-, которую нужно настроить заново. Истории и плейлисты сохраняются.",
+    "source": "c683f2f32804"
+  },
+  "done.title": {
+    "message": "Сделанный.",
+    "source": "ed251864987c"
+  },
+  "done.wipe": {
+    "message": "$VERSION$ установлен на стертом Choosatron, который перезагружается как новый. Он распечатывает свой установочный файл и запускается как собственная открытая сеть Wi-Fi с именем Choosatron-.",
+    "source": "7b060514a69d"
+  },
+  "failed.retry": {
+    "message": "Повторная попытка ничего не изменит: подсоедините кабель и снова нажмите кнопку.",
+    "source": "eab2f68df87a"
+  },
+  "failed.title": {
+    "message": "Установка не завершилась.",
+    "source": "5f28a2941f48"
+  },
+  "footer": {
+    "message": "Прошивка от $1$ · прошивка от $2$",
+    "source": "ff627e376059"
+  },
+  "help.again": {
+    "message": "Нажмите $1$ еще раз.",
+    "source": "3ce1e091e0c5"
+  },
+  "help.always": {
+    "message": "К устройству Choosatron всегда можно подключиться таким способом, независимо от того, насколько повреждена его прошивка. Если браузер не отображает ни одного устройства или установка не удается:",
+    "source": "e1c63dc23729"
+  },
+  "help.buttons": {
+    "message": "Переведите устройство в режим восстановления вручную. Откройте корпус и найдите на плате две маленькие кнопки: $1$ и $2$. Удерживайте кнопку $3$, нажмите и отпустите $4$, затем отпустите $5$.",
+    "source": "dfe60363e256"
+  },
+  "help.cable": {
+    "message": "Попробуйте другой USB-кабель и другой USB-порт на компьютере.",
+    "source": "48ba9762cb82"
+  },
+  "help.reset": {
+    "message": "После установки из режима восстановления, если Choosatron не перезагрузится самостоятельно, нажмите $1$ один раз.",
+    "source": "d449a80d0ef7"
+  },
+  "help.title": {
+    "message": "Если Choosatron не найден",
+    "source": "899d83a20e63"
+  },
+  "image.board_unknown": {
+    "message": "Не удалось определить, для какой платы был создан этот образ.",
+    "source": "92da9db4ed18"
+  },
+  "image.is_update": {
+    "message": "Это образ обновления ($UPDATE$), а не образ восстановления. Выберите $RECOVERY$ или установите этот образ со вкладки «Прошивка» на веб-странице Choosatron.",
+    "source": "575d905ffc23"
+  },
+  "image.not_recovery": {
+    "message": "Этот файл не является образом восстановления Choosatron.",
+    "source": "17548d9b45be"
+  },
+  "image.other_project": {
+    "message": "Это образ \"$NAME$\", а не прошивка Choosatron.",
+    "source": "a75b73d91c65"
+  },
+  "image.too_big": {
+    "message": "Этот образ загружается из хранилища материалов, поэтому он не является образом восстановления Choosatron.",
+    "source": "179de4d4e59c"
+  },
+  "image.too_small": {
+    "message": "Этот файл слишком мал, чтобы быть образом восстановления.",
+    "source": "c434b7539934"
+  },
+  "image.wrong_board": {
+    "message": "Этот образ был создан для $BUILT$, а не для $WANTED$. На неправильной плате кнопки и принтер не будут работать, пока не будет установлен правильный образ.",
+    "source": "fc2c789e0752"
+  },
+  "info.board": {
+    "message": "Создано для",
+    "source": "0ae12b05cf0f"
+  },
+  "info.size": {
+    "message": "Размер",
+    "source": "1af851907331"
+  },
+  "info.version": {
+    "message": "Версия",
+    "source": "dd167905de0d"
+  },
+  "install.button": {
+    "message": "Установить",
+    "source": "569ca49f4aaf"
+  },
+  "install.connecting": {
+    "message": "Подключение к Choosatron…",
+    "source": "3c6c4946b556"
+  },
+  "install.erasing": {
+    "message": "Стирание всей памяти. На это может уйти до минуты…",
+    "source": "d3de3c842be0"
+  },
+  "install.none_chosen": {
+    "message": "Вариант Choosatron не был выбран.",
+    "source": "b9a490435cb2"
+  },
+  "install.progress": {
+    "message": "$DONE$ из $TOTAL$",
+    "source": "4988282e4937"
+  },
+  "install.settings": {
+    "message": "Установка и сброс настроек",
+    "source": "0e6e357f613c"
+  },
+  "install.verified": {
+    "message": "$TOTAL$ написано и проверено",
+    "source": "fd1a6b8ccfe5"
+  },
+  "install.wipe": {
+    "message": "Удалите все и установите заново.",
+    "source": "9a0a13d94711"
+  },
+  "install.writing": {
+    "message": "Установка. Оставьте кабель подключенным…",
+    "source": "fa7fc7ebba81"
+  },
+  "install.wrong_chip": {
+    "message": "Это устройство относится к классу $CHIP$, а не Choosatron (ESP32-S3). Ничего не было записано.",
+    "source": "b8422f38fb74"
+  },
+  "install.wrong_flash": {
+    "message": "На этой плате установлено $SIZE$ объёма флэш-памяти; Choosatron содержит 16 МБ. Ничего не было записано.",
+    "source": "beff42b902cb"
+  },
+  "intro.browsers": {
+    "message": "$1$ (Windows, macOS, Linux или Chromebook). Opera и другие браузеры, созданные на основе Chrome, обычно тоже работают. Safari и Firefox нельзя установить через USB, как и телефоны или планшеты.",
+    "source": "73c3ac6c45ae"
+  },
+  "intro.firmware_tab": {
+    "message": "Прошивка",
+    "source": "c2a314c3b32b"
+  },
+  "intro.need_browser": {
+    "message": "Для работы вам потребуется браузер Chrome или Edge на компьютере.",
+    "source": "331ca486fc74"
+  },
+  "intro.when": {
+    "message": "Используйте эту страницу, если Choosatron не запускается или не может быть обновлен через собственный веб-сайт. Если веб-страница по-прежнему работает, обновите систему через вкладку $1$ на этой странице: это быстрее и не требует кабеля.",
+    "source": "afd0646e13c0"
+  },
+  "language": {
+    "message": "Язык",
+    "source": "a4fe65264ef7"
+  },
+  "mode.recommended": {
+    "message": "рекомендовано",
+    "source": "dd6d87654803"
+  },
+  "mode.reinstall": {
+    "message": "Переустановить",
+    "source": "c630a782a9eb"
+  },
+  "mode.reinstall_text": {
+    "message": "Заменяет прошивку. Сохраняются все истории, плейлисты и настройки, включая Wi-Fi.",
+    "source": "edae5c28c19e"
+  },
+  "mode.settings": {
+    "message": "Переустановите и сбросьте настройки.",
+    "source": "ccebe8ca6b4c"
+  },
+  "mode.settings_text": {
+    "message": "Также это восстанавливает все настройки до состояния, в котором они были при покупке Choosatron, включая Wi-Fi, так что устройство отображается как отдельная открытая сеть. Истории и плейлисты сохраняются. Попробуйте это, если переустановка сама по себе не помогла.",
+    "source": "73db0be6a0de"
+  },
+  "mode.wipe": {
+    "message": "Стереть всё",
+    "source": "240a9adadcdd"
+  },
+  "mode.wipe_confirm": {
+    "message": "Я понимаю, что все статьи на этом сайте Choosatron будут удалены.",
+    "source": "a3953f302646"
+  },
+  "mode.wipe_text": {
+    "message": "Сначала стирается вся память: все истории, плейлисты и настройки. Choosatron запускается как новый. Это актуально для новой платы или когда ничего другого не помогало.",
+    "source": "97220b7964d9"
+  },
+  "no_serial.again": {
+    "message": "Откройте эту страницу в Chrome или Edge и начните заново.",
+    "source": "7b179e543e28"
+  },
+  "no_serial.need": {
+    "message": "Для установки через USB-накопитель требуется операционная система $1$ или $2$ на компьютере (Windows, macOS, Linux или Chromebook). Safari, Firefox и браузеры на телефонах и планшетах не могут взаимодействовать с USB-устройствами.",
+    "source": "167e6dd909e4"
+  },
+  "no_serial.title": {
+    "message": "Этот браузер не может получить доступ к Choosatron",
+    "source": "a3641465fade"
+  },
+  "page_title": {
+    "message": "Choosatron Flasher",
+    "source": "d7db3c63e833"
+  },
+  "releases.damaged": {
+    "message": "Загруженный файл поврежден: он не соответствует релизу. Перезагрузите страницу и попробуйте снова.",
+    "source": "473c77bc9311"
+  },
+  "releases.download_failed": {
+    "message": "Загрузка не удалась. Проверьте подключение к интернету и попробуйте снова.",
+    "source": "2afd23af5cc1"
+  },
+  "releases.download_http": {
+    "message": "Загрузка не удалась (HTTP $STATUS$).",
+    "source": "667ce76c3a5b"
+  },
+  "releases.downloading": {
+    "message": "Загрузка $VERSION$ ($SIZE$)…",
+    "source": "6ea1d6572fb7"
+  },
+  "releases.loading": {
+    "message": "Загрузка списка релизов…",
+    "source": "880d42dfc33f"
+  },
+  "releases.newer_beta": {
+    "message": "Более новая бета-версия приведена в списке ниже.",
+    "source": "bdc10c86497c"
+  },
+  "releases.none": {
+    "message": "Для этой платы пока не выпущена прошивка. Вы всё ещё можете установить образ восстановления с этого компьютера.",
+    "source": "351bada9b36f"
+  },
+  "releases.option": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$",
+    "source": "40a2ae5d15e1"
+  },
+  "releases.option_file": {
+    "message": "На этом компьютере находится файл…",
+    "source": "5a24880b8196"
+  },
+  "releases.option_recommended": {
+    "message": "$VERSION$ — $CHANNEL$, $DATE$ (рекомендуется)",
+    "source": "2cf23124bc54"
+  },
+  "releases.recommended": {
+    "message": "Рекомендуется",
+    "source": "d70604e84304"
+  },
+  "releases.released": {
+    "message": "Выпущено $DATE$",
+    "source": "f7828f2c8ac6"
+  },
+  "releases.unreadable": {
+    "message": "Не удалось прочитать список релизов: $ERROR$",
+    "source": "993532209905"
+  },
+  "see_not_found": {
+    "message": "Если подключение не удается, см. раздел «Если Choosatron не найден» ниже.",
+    "source": "6da3276139a9"
+  },
+  "size_mb": {
+    "message": "$SIZE$ МБ",
+    "source": "945ac42547f4"
+  },
+  "step1.file_hint": {
+    "message": "Образ восстановления $1$, полученный из выпущенной версии или вашей собственной сборки.",
+    "source": "37e72c5b4cc8"
+  },
+  "step1.title": {
+    "message": "Выберите прошивку",
+    "source": "ea7752764a28"
+  },
+  "step1.version": {
+    "message": "Версия",
+    "source": "dd167905de0d"
+  },
+  "step2.title": {
+    "message": "Выберите, что делать",
+    "source": "73e856d964f5"
+  },
+  "step3.cable": {
+    "message": "Подключите Choosatron к этому компьютеру с помощью кабеля USB-C. Некоторые кабели только заряжают устройство; если ничего не обнаруживается, попробуйте другой.",
+    "source": "32d3f40b35e2"
+  },
+  "step3.pick": {
+    "message": "Нажмите $1$. Браузер спросит, какое устройство использовать: выберите устройство с именем $2$ (в Windows это $3$ с номером COM-порта).",
+    "source": "5373458aee9c"
+  },
+  "step3.title": {
+    "message": "Подключите и установите",
+    "source": "3f51c155178e"
+  },
+  "step3.wait": {
+    "message": "Оставьте кабель подключенным до тех пор, пока на этой странице не появится сообщение о завершении процесса.",
+    "source": "e082eba4fe71"
+  },
+  "step3.windows_device": {
+    "message": "USB-последовательное устройство",
+    "source": "a2d9c0a67a10"
+  },
+  "title": {
+    "message": "Переустановите или восстановите систему с USB-накопителя.",
+    "source": "3eb192cb7f20"
+  },
+  "unknown": {
+    "message": "неизвестный",
+    "source": "b23a6a8439c0"
+  }
+}
